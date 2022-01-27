@@ -1,0 +1,37 @@
+#!/usr/bin/env php
+<?php
+
+use Sunaoka\Holidays\Holiday;
+use Sunaoka\Holidays\Task\Make;
+
+function includeIfExists($file)
+{
+    return file_exists($file) ? include $file : null;
+}
+
+if (!includeIfExists(__DIR__ . '/../vendor/autoload.php') && !includeIfExists(__DIR__ . '/../../../autoload.php')) {
+    echo 'You must set up the project dependencies using `composer install`' . PHP_EOL .
+        'See https://getcomposer.org/download/ for instructions on installing Composer' . PHP_EOL;
+    exit(1);
+}
+
+date_default_timezone_set('UTC');
+
+$configDir = dirname(__DIR__) . '/config';
+
+$countries = array_map(static function ($file) {
+    return basename($file, '.php');
+}, glob("{$configDir}/??.php"));
+
+$result = [];
+foreach ($countries as $country) {
+    $config = include("{$configDir}/{$country}.php");
+    $holidays = [];
+    foreach (Make::holiday($config) as $data => $name) {
+        $holidays[$data] = new Holiday($data, $name);
+    }
+
+    $data = sprintf("<?php\n\nreturn %s;\n", var_export($holidays, true));
+
+    file_put_contents(dirname(__DIR__) . "/src/data/{$country}.php", $data);
+}

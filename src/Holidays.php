@@ -79,7 +79,7 @@ class Holidays
             list($endDate, $startDate) = [$startDate, $endDate];
         }
 
-        $holidays = $this->filter($startDate, $endDate);
+        $holidays = $this->filter($startDate->setTime(0, 0, 0), $endDate->setTime(23, 59, 59));
 
         return array_values($holidays);
     }

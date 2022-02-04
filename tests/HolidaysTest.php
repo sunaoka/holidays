@@ -77,6 +77,12 @@ class HolidaysTest extends TestCase
 
         self::assertCount(1, $actual);
 
+        $actual = $holidays->between(date('Y-01-01 12:34:56'), date('Y-01-07 12:35:56'));
+        $this->assertIsArrayCompat($actual);
+        $this->assertInstanceOf(Holiday::class, $actual[0]);
+
+        self::assertCount(1, $actual);
+
         $actual = $holidays->between(date('Y-01-07'), date('Y-01-01'));
         $this->assertIsArrayCompat($actual);
         $this->assertInstanceOf(Holiday::class, $actual[0]);

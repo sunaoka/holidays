@@ -1,5 +1,13 @@
 # Holiday calculation library for PHP
 
+[![Latest](https://poser.pugx.org/sunaoka/holidays/v)](https://packagist.org/packages/sunaoka/holidays)
+[![License](https://poser.pugx.org/sunaoka/holidays/license)](https://packagist.org/packages/sunaoka/holidays)
+[![PHP](https://img.shields.io/packagist/php-v/sunaoka/holidays)](composer.json)
+[![Test](https://github.com/sunaoka/holidays/actions/workflows/test.yml/badge.svg)](https://github.com/sunaoka/holidays/actions/workflows/test.yml)
+[![codecov](https://codecov.io/gh/sunaoka/holidays/branch/develop/graph/badge.svg)](https://codecov.io/gh/sunaoka/holidays)
+
+---
+
 ## Supported Countries
 
 | Country                       | Code |

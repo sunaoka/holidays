@@ -17,7 +17,7 @@ return array (
   )),
   '2021-02-13' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Second day of Lunar New Year',
+     'name' => 'Second Day of Lunar New Year',
      'date' => '2021-02-13 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -31,7 +31,7 @@ return array (
   )),
   '2021-02-15' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Fourth day of Lunar New Year',
+     'name' => 'Fourth Day of Lunar New Year',
      'date' => '2021-02-15 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -185,14 +185,14 @@ return array (
   )),
   '2022-02-02' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Second day of Lunar New Year',
+     'name' => 'Second Day of Lunar New Year',
      'date' => '2022-02-02 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2022-02-03' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Third day of Lunar New Year',
+     'name' => 'Third Day of Lunar New Year',
      'date' => '2022-02-03 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -374,14 +374,14 @@ return array (
   )),
   '2023-01-23' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Third day of Lunar New Year',
+     'name' => 'Third Day of Lunar New Year',
      'date' => '2023-01-23 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2023-01-24' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Fourth day of Lunar New Year',
+     'name' => 'Fourth Day of Lunar New Year',
      'date' => '2023-01-24 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

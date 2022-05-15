@@ -274,6 +274,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2022-04-29' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Cuti Bersama Idul Fitri',
+     'date' => '2022-04-29 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2022-05-01' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Hari Buruh Internasional / Pekerja',
@@ -292,6 +299,27 @@ return array (
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Hari Idul Fitri',
      'date' => '2022-05-03 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2022-05-04' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Cuti Bersama Idul Fitri',
+     'date' => '2022-05-04 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2022-05-05' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Cuti Bersama Idul Fitri',
+     'date' => '2022-05-05 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2022-05-06' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Cuti Bersama Idul Fitri',
+     'date' => '2022-05-06 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

@@ -519,6 +519,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2023-12-25' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Christmas Day',
+     'date' => '2023-12-25 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2023-12-26' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'First Weekday After Christmas Day',

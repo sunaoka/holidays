@@ -241,7 +241,7 @@ return array (
   )),
   '2023-01-02' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '元日 振替休日',
+     'name' => '休日 元日',
      'date' => '2023-01-02 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

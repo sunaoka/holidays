@@ -87,7 +87,7 @@ return array (
   )),
   '2021-03-12' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '植樹節',
+     'name' => '植树节',
      'date' => '2021-03-12 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -374,7 +374,7 @@ return array (
   )),
   '2022-03-12' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '植樹節',
+     'name' => '植树节',
      'date' => '2022-03-12 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -626,7 +626,7 @@ return array (
   )),
   '2023-03-12' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '植樹節',
+     'name' => '植树节',
      'date' => '2023-03-12 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

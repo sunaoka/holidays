@@ -15,6 +15,20 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2021-02-17' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Mercoledì delle Ceneri',
+     'date' => '2021-02-17 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2021-03-19' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Festa del Papà',
+     'date' => '2021-03-19 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2021-04-02' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Venerdi Santo',
@@ -47,6 +61,13 @@ return array (
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Festa del Lavoro',
      'date' => '2021-05-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2021-05-09' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'La Festa della Mamma',
+     'date' => '2021-05-09 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -113,6 +134,20 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2022-03-02' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Mercoledì delle Ceneri',
+     'date' => '2022-03-02 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2022-03-19' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Festa del Papà',
+     'date' => '2022-03-19 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2022-04-15' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Venerdi Santo',
@@ -145,6 +180,13 @@ return array (
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Festa del Lavoro',
      'date' => '2022-05-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2022-05-08' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'La Festa della Mamma',
+     'date' => '2022-05-08 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -211,6 +253,20 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2023-02-22' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Mercoledì delle Ceneri',
+     'date' => '2023-02-22 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-03-19' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Festa del Papà',
+     'date' => '2023-03-19 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2023-04-07' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Venerdi Santo',
@@ -243,6 +299,13 @@ return array (
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Festa del Lavoro',
      'date' => '2023-05-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-05-14' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'La Festa della Mamma',
+     'date' => '2023-05-14 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

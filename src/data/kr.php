@@ -204,6 +204,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2022-03-09' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '대통령 선거',
+     'date' => '2022-03-09 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2022-04-05' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '식목일',
@@ -229,6 +236,13 @@ return array (
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '스승의날',
      'date' => '2022-05-15 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2022-06-01' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '지방선거일',
+     'date' => '2022-06-01 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

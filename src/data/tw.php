@@ -428,6 +428,20 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2023-01-07' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '特殊工作日',
+     'date' => '2023-01-07 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-01-20' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Lunar New Year Holiday',
+     'date' => '2023-01-20 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2023-01-21' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '農曆除夕',
@@ -470,6 +484,27 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2023-01-27' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '農曆初二',
+     'date' => '2023-01-27 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-01-28' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '農曆初二',
+     'date' => '2023-01-28 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-01-29' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '農曆初二',
+     'date' => '2023-01-29 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2023-02-04' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '農民節',
@@ -481,6 +516,34 @@ return array (
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '元宵節',
      'date' => '2023-02-05 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-02-18' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '特殊工作日',
+     'date' => '2023-02-18 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-02-25' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '和平紀念日',
+     'date' => '2023-02-25 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-02-26' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '和平紀念日',
+     'date' => '2023-02-26 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-02-27' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '和平紀念日',
+     'date' => '2023-02-27 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -498,10 +561,38 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2023-03-25' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '特殊工作日',
+     'date' => '2023-03-25 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2023-03-29' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '青年節',
      'date' => '2023-03-29 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-04-01' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Public Holiday',
+     'date' => '2023-04-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-04-02' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Public Holiday',
+     'date' => '2023-04-02 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-04-03' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Public Holiday',
+     'date' => '2023-04-03 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -526,10 +617,38 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2023-06-17' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '特殊工作日',
+     'date' => '2023-06-17 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2023-06-22' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '端午節彈性放假',
      'date' => '2023-06-22 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-06-23' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '端午節 補假',
+     'date' => '2023-06-23 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-06-24' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '端午節 補假',
+     'date' => '2023-06-24 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-06-25' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '端午節 補假',
+     'date' => '2023-06-25 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -547,6 +666,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2023-09-23' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '特殊工作日',
+     'date' => '2023-09-23 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2023-09-28' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '教師節',
@@ -558,6 +684,41 @@ return array (
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '中秋節',
      'date' => '2023-09-29 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-09-30' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '中秋節',
+     'date' => '2023-09-30 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-10-01' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '中秋節',
+     'date' => '2023-10-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-10-07' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '國慶日/雙十節彈性放假',
+     'date' => '2023-10-07 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-10-08' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '國慶日/雙十節彈性放假',
+     'date' => '2023-10-08 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-10-09' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '國慶日/雙十節彈性放假',
+     'date' => '2023-10-09 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

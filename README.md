@@ -120,6 +120,7 @@ $holidays->between(date('2021-01-01'), date('2021-01-07'));
 use Sunaoka\Holidays\Holidays;
 
 // Add 2021-05-05 as my birthday
+$holidays = new Holidays('US');
 $holidays->addHoliday(new Holiday('2021-05-05', 'My Birthday 🎉'));
 
 $holidays->isHoliday('2021-05-05');

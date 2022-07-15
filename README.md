@@ -91,6 +91,41 @@ $holidays->getHolidays(2021);
 //   }
 ```
 
+### Returns holidays for a given date range
+
+```php
+use Sunaoka\Holidays\Holidays;
+
+// Return United States (US) holidays from 2021-01-01 to 2021-01-07
+$holidays = new Holidays('US');
+$holidays->between(date('2021-01-01'), date('2021-01-07'));
+// array(1) {
+//   [0] =>
+//   class Sunaoka\Holidays\Holiday#1 (4) {
+//     protected $name =>
+//     string(14) "New Year's Day"
+//     public $date =>
+//     string(26) "2021-01-01 00:00:00.000000"
+//     public $timezone_type =>
+//     int(3)
+//     public $timezone =>
+//     string(3) "UTC"
+//   }
+// }
+```
+
+### Add custom holiday
+
+```php
+use Sunaoka\Holidays\Holidays;
+
+// Add 2021-05-05 as my birthday
+$holidays->addHoliday(new Holiday('2021-05-05', 'My Birthday 🎉'));
+
+$holidays->isHoliday('2021-05-05');
+// => true
+```
+
 ### Update holiday data to latest
 
 ```bash

@@ -344,17 +344,17 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2022-07-09' => 
+  '2022-07-10' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Idul Adha (Lebaran Haji)',
-     'date' => '2022-07-09 00:00:00.000000',
+     'date' => '2022-07-10 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2022-07-30' => 
+  '2022-07-31' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Satu Muharam / Tahun Baru Hijriah',
-     'date' => '2022-07-30 00:00:00.000000',
+     'date' => '2022-07-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -372,10 +372,10 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2022-10-08' => 
+  '2022-10-09' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Maulid Nabi Muhammad',
-     'date' => '2022-10-08 00:00:00.000000',
+     'date' => '2022-10-09 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

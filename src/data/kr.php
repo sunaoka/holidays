@@ -337,9 +337,16 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2023-01-22' => 
+  '2023-01-21' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '설날 연휴',
+     'date' => '2023-01-21 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-01-22' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '설날',
      'date' => '2023-01-22 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -348,6 +355,13 @@ return array (
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '설날 연휴',
      'date' => '2023-01-23 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-01-24' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '설날 연휴',
+     'date' => '2023-01-24 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

@@ -421,13 +421,6 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2023-06-10' => 
-  Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Queen\'s Birthday',
-     'date' => '2023-06-10 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2023-07-12' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Battle of the Boyne (Northern Ireland)',

@@ -22,6 +22,7 @@
 | :jp: Japan                    | `JP` |
 | :kr: Korea                    | `KR` |
 | :taiwan: Taiwan               | `TW` |
+| :singapore: Singapore         | `SG` |
 | :us: United States of America | `US` |
 
 ## Installation

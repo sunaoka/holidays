@@ -139,7 +139,7 @@ class Holidays
             if (!file_exists($file)) {
                 throw new UnsupportedCountryException("Country '{$country}' is not a valid country.");
             }
-            $this->holidays = include(__DIR__ . "/data/{$country}.php");
+            $this->holidays = include($file);
         }
     }
 

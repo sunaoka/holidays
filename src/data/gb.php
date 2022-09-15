@@ -22,6 +22,27 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2021-02-14' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Valentine\'s Day',
+     'date' => '2021-02-14 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2021-02-16' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Carnival / Shrove Tuesday / Pancake Day',
+     'date' => '2021-02-16 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2021-03-14' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Mother\'s Day',
+     'date' => '2021-03-14 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2021-03-17' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'St Patrick\'s Day (Northern Ireland)',
@@ -80,8 +101,15 @@ return array (
   )),
   '2021-06-12' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Queen\'s Birthday',
+     'name' => 'Queen Elizabeth II\'s Birthday',
      'date' => '2021-06-12 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2021-06-20' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Father\'s Day',
+     'date' => '2021-06-20 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -134,6 +162,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2021-12-24' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Christmas Eve',
+     'date' => '2021-12-24 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2021-12-25' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Christmas Day',
@@ -162,6 +197,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2021-12-31' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'New Year\'s Eve',
+     'date' => '2021-12-31 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2022-01-01' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'New Year\'s Day',
@@ -187,6 +229,20 @@ return array (
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Twelfth Night',
      'date' => '2022-01-05 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2022-02-14' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Valentine\'s Day',
+     'date' => '2022-02-14 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2022-03-01' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Carnival / Shrove Tuesday / Pancake Day',
+     'date' => '2022-03-01 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -248,15 +304,22 @@ return array (
   )),
   '2022-06-03' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Queen\'s Platinum Jubilee',
+     'name' => 'Queen Elizabeth II\'s Platinum Jubilee',
      'date' => '2022-06-03 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2022-06-11' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Queen\'s Birthday',
+     'name' => 'Queen Elizabeth II\'s Birthday',
      'date' => '2022-06-11 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2022-06-19' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Father\'s Day',
+     'date' => '2022-06-19 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -278,6 +341,13 @@ return array (
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Summer Bank Holiday (regional holiday)',
      'date' => '2022-08-29 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2022-09-19' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'State Funeral of Queen Elizabeth II',
+     'date' => '2022-09-19 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -316,6 +386,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2022-12-24' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Christmas Eve',
+     'date' => '2022-12-24 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2022-12-25' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Christmas Day',
@@ -334,6 +411,13 @@ return array (
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Substitute Bank Holiday for Christmas Day',
      'date' => '2022-12-27 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2022-12-31' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'New Year\'s Eve',
+     'date' => '2022-12-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -365,10 +449,31 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2023-02-14' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Valentine\'s Day',
+     'date' => '2023-02-14 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-02-21' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Carnival / Shrove Tuesday / Pancake Day',
+     'date' => '2023-02-21 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2023-03-17' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'St Patrick\'s Day (Northern Ireland)',
      'date' => '2023-03-17 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-03-19' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Mother\'s Day',
+     'date' => '2023-03-19 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -418,6 +523,13 @@ return array (
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Spring Bank Holiday',
      'date' => '2023-05-29 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-06-18' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Father\'s Day',
+     'date' => '2023-06-18 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -477,6 +589,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2023-12-24' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Christmas Eve',
+     'date' => '2023-12-24 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2023-12-25' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Christmas Day',
@@ -488,6 +607,13 @@ return array (
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Boxing Day',
      'date' => '2023-12-26 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-12-31' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'New Year\'s Eve',
+     'date' => '2023-12-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

@@ -101,7 +101,7 @@ return array (
   )),
   '2021-06-12' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Queen\'s Birthday',
+     'name' => 'Queen Elizabeth II\'s Birthday',
      'date' => '2021-06-12 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -304,14 +304,14 @@ return array (
   )),
   '2022-06-03' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Queen\'s Platinum Jubilee',
+     'name' => 'Queen Elizabeth II\'s Platinum Jubilee',
      'date' => '2022-06-03 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2022-06-11' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Queen\'s Birthday',
+     'name' => 'Queen Elizabeth II\'s Birthday',
      'date' => '2022-06-11 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -346,7 +346,7 @@ return array (
   )),
   '2022-09-19' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Queen Elizabeth\'s Funeral Day',
+     'name' => 'State Funeral of Queen Elizabeth II',
      'date' => '2022-09-19 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

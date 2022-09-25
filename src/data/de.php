@@ -710,7 +710,7 @@ return array (
   )),
   '2023-10-31' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Reformationstag (regionaler Feiertag)',
+     'name' => 'Halloween',
      'date' => '2023-10-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

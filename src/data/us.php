@@ -402,7 +402,7 @@ return array (
   )),
   '2022-10-10' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Indigenous Peoples\' Day',
+     'name' => 'Columbus Day',
      'date' => '2022-10-10 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

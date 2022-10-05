@@ -631,6 +631,20 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2023-04-03' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '清明节',
+     'date' => '2023-04-03 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-04-04' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '清明节',
+     'date' => '2023-04-04 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2023-04-05' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '清明节',
@@ -656,6 +670,20 @@ return array (
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '端午节',
      'date' => '2023-06-22 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-06-23' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '端午节',
+     'date' => '2023-06-23 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-06-24' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '端午节',
+     'date' => '2023-06-24 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

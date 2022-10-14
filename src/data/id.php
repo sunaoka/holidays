@@ -372,10 +372,10 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2022-10-09' => 
+  '2022-10-08' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Maulid Nabi Muhammad',
-     'date' => '2022-10-09 00:00:00.000000',
+     'date' => '2022-10-08 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -435,17 +435,38 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2023-01-23' => 
+  '2023-01-22' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Tahun Baru Imlek',
+     'date' => '2023-01-22 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-01-23' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Lunar New Year Joint Holiday',
      'date' => '2023-01-23 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2023-02-19' => 
+  '2023-02-18' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Isra Mikraj Nabi Muhammad',
-     'date' => '2023-02-19 00:00:00.000000',
+     'date' => '2023-02-18 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-03-22' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Suci Nyepi (Tahun Baru Saka)',
+     'date' => '2023-03-22 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-03-23' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Joint Holiday for Bali\'s Day of Silence and Hindu New Year (Nyepi)',
+     'date' => '2023-03-23 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -484,6 +505,27 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2023-04-24' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Cuti Bersama Idul Fitri',
+     'date' => '2023-04-24 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-04-25' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Cuti Bersama Idul Fitri',
+     'date' => '2023-04-25 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-04-26' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Cuti Bersama Idul Fitri',
+     'date' => '2023-04-26 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2023-05-01' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Hari Buruh Internasional / Pekerja',
@@ -505,6 +547,20 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2023-06-02' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Cuti Bersama Waisak',
+     'date' => '2023-06-02 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-06-04' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Raya Waisak',
+     'date' => '2023-06-04 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2023-06-29' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Idul Adha (Lebaran Haji)',
@@ -512,10 +568,10 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2023-07-20' => 
+  '2023-07-19' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Satu Muharam / Tahun Baru Hijriah',
-     'date' => '2023-07-20 00:00:00.000000',
+     'date' => '2023-07-19 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -572,6 +628,13 @@ return array (
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Hari Raya Natal',
      'date' => '2023-12-25 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-12-26' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Cuti Bersama Natal (Hari Tinju)',
+     'date' => '2023-12-26 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

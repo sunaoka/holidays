@@ -337,10 +337,10 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2023-06-03' => 
+  '2023-06-02' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Vesak Day',
-     'date' => '2023-06-03 00:00:00.000000',
+     'date' => '2023-06-02 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

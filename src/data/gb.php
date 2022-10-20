@@ -533,10 +533,10 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2023-06-12' => 
+  '2023-06-10' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'King\'s Birthday',
-     'date' => '2023-06-12 00:00:00.000000',
+     'date' => '2023-06-10 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

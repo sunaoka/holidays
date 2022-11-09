@@ -288,6 +288,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2022-09-12' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '쉬는 날 추석 연휴',
+     'date' => '2022-09-12 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2022-10-01' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '국군의날',
@@ -306,6 +313,13 @@ return array (
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '한글날',
      'date' => '2022-10-09 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2022-10-10' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '쉬는 날 한글날',
+     'date' => '2022-10-10 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -453,6 +467,13 @@ return array (
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '국군의날',
      'date' => '2023-10-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-10-02' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '쉬는 날 추석 연휴',
+     'date' => '2023-10-02 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

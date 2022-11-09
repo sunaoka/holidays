@@ -526,6 +526,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2023-05-08' => 
+  Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Bank Holiday for the Coronation of King Charles III',
+     'date' => '2023-05-08 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2023-05-29' => 
   Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Spring Bank Holiday',

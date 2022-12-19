@@ -17,7 +17,7 @@ return array (
   )),
   '2021-02-10' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Lunar New Year Holiday',
+     'name' => '農曆春節假日',
      'date' => '2021-02-10 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -31,42 +31,42 @@ return array (
   )),
   '2021-02-12' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '春節',
+     'name' => '農曆春節',
      'date' => '2021-02-12 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2021-02-13' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '農曆初二',
+     'name' => '農曆春節假日',
      'date' => '2021-02-13 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2021-02-14' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '農曆初三',
+     'name' => '農曆春節假日',
      'date' => '2021-02-14 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2021-02-15' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '農曆初四',
+     'name' => '農曆春節假日',
      'date' => '2021-02-15 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2021-02-16' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '農曆初五',
+     'name' => '農曆春節假日',
      'date' => '2021-02-16 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2021-02-20' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '特殊工作日',
+     'name' => '農曆春節補假',
      'date' => '2021-02-20 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -143,7 +143,7 @@ return array (
   )),
   '2021-06-14' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '端午節彈性放假',
+     'name' => '端午節',
      'date' => '2021-06-14 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -164,7 +164,7 @@ return array (
   )),
   '2021-09-11' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '特殊工作日',
+     'name' => '中秋節補假',
      'date' => '2021-09-11 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -192,14 +192,14 @@ return array (
   )),
   '2021-10-10' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '國慶日/雙十節彈性放假',
+     'name' => '中華民國國慶日',
      'date' => '2021-10-10 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2021-10-11' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '國慶日/雙十節彈性放假 補假',
+     'name' => '中華民國國慶日 補假',
      'date' => '2021-10-11 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -241,7 +241,7 @@ return array (
   )),
   '2022-01-22' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '特殊工作日',
+     'name' => '農曆春節補假',
      'date' => '2022-01-22 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -255,35 +255,35 @@ return array (
   )),
   '2022-02-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '春節',
+     'name' => '農曆春節',
      'date' => '2022-02-01 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2022-02-02' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '農曆初二',
+     'name' => '農曆春節假日',
      'date' => '2022-02-02 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2022-02-03' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '農曆初三',
+     'name' => '農曆春節假日',
      'date' => '2022-02-03 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2022-02-04' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '農曆初四',
+     'name' => '農民節',
      'date' => '2022-02-04 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2022-02-05' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '農曆初五',
+     'name' => '農曆春節假日',
      'date' => '2022-02-05 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -346,7 +346,7 @@ return array (
   )),
   '2022-06-03' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '端午節彈性放假',
+     'name' => '端午節',
      'date' => '2022-06-03 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -395,7 +395,7 @@ return array (
   )),
   '2022-10-10' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '國慶日/雙十節彈性放假',
+     'name' => '中華民國國慶日',
      'date' => '2022-10-10 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -430,14 +430,14 @@ return array (
   )),
   '2023-01-07' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '特殊工作日',
+     'name' => '補班日',
      'date' => '2023-01-07 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2023-01-20' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Lunar New Year Holiday',
+     'name' => '農曆春節假日',
      'date' => '2023-01-20 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -451,63 +451,63 @@ return array (
   )),
   '2023-01-22' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '春節',
+     'name' => '農曆春節',
      'date' => '2023-01-22 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2023-01-23' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '農曆初二',
+     'name' => '農曆春節假日',
      'date' => '2023-01-23 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2023-01-24' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '農曆初三',
+     'name' => '農曆春節假日',
      'date' => '2023-01-24 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2023-01-25' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '農曆初四',
+     'name' => '農曆春節假日',
      'date' => '2023-01-25 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2023-01-26' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '農曆初五',
+     'name' => '農曆春節假日',
      'date' => '2023-01-26 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2023-01-27' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '農曆初二',
+     'name' => '農曆春節假日',
      'date' => '2023-01-27 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2023-01-28' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '農曆初二',
+     'name' => '農曆春節假日',
      'date' => '2023-01-28 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2023-01-29' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '農曆初二',
+     'name' => '農曆春節假日',
      'date' => '2023-01-29 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2023-02-04' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '特殊工作日',
+     'name' => '農民節',
      'date' => '2023-02-04 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -521,7 +521,7 @@ return array (
   )),
   '2023-02-18' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '特殊工作日',
+     'name' => '和平紀念日補假',
      'date' => '2023-02-18 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -563,7 +563,7 @@ return array (
   )),
   '2023-03-25' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '特殊工作日',
+     'name' => '兒童節補假',
      'date' => '2023-03-25 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -577,21 +577,21 @@ return array (
   )),
   '2023-04-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Public Holiday',
+     'name' => '國定假日',
      'date' => '2023-04-01 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2023-04-02' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Public Holiday',
+     'name' => '國定假日',
      'date' => '2023-04-02 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2023-04-03' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Public Holiday',
+     'name' => '國定假日',
      'date' => '2023-04-03 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -619,35 +619,35 @@ return array (
   )),
   '2023-06-17' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '特殊工作日',
+     'name' => '端午節補假',
      'date' => '2023-06-17 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2023-06-22' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '端午節彈性放假',
+     'name' => '端午節',
      'date' => '2023-06-22 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2023-06-23' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '端午節 補假',
+     'name' => '端午節',
      'date' => '2023-06-23 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2023-06-24' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '端午節 補假',
+     'name' => '端午節',
      'date' => '2023-06-24 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2023-06-25' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '端午節 補假',
+     'name' => '端午節',
      'date' => '2023-06-25 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -668,7 +668,7 @@ return array (
   )),
   '2023-09-23' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '特殊工作日',
+     'name' => '國慶日補假',
      'date' => '2023-09-23 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -703,28 +703,28 @@ return array (
   )),
   '2023-10-07' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '國慶日/雙十節彈性放假',
+     'name' => '中華民國國慶日',
      'date' => '2023-10-07 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2023-10-08' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '國慶日/雙十節彈性放假',
+     'name' => '中華民國國慶日',
      'date' => '2023-10-08 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2023-10-09' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '國慶日/雙十節彈性放假',
+     'name' => '中華民國國慶日',
      'date' => '2023-10-09 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2023-10-10' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '國慶日/雙十節彈性放假',
+     'name' => '中華民國國慶日',
      'date' => '2023-10-10 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

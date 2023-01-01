@@ -1,174 +1,6 @@
 <?php
 
 return array (
-  '2021-01-01' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'New Year\'s Day',
-     'date' => '2021-01-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-02-12' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Lunar New Year\'s Day',
-     'date' => '2021-02-12 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-02-13' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Second Day of Lunar New Year',
-     'date' => '2021-02-13 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-02-14' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Valentine\'s Day',
-     'date' => '2021-02-14 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-02-15' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Fourth Day of Lunar New Year',
-     'date' => '2021-02-15 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-04-02' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Good Friday',
-     'date' => '2021-04-02 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-04-03' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Holy Saturday',
-     'date' => '2021-04-03 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-04-04' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Tomb Sweeping Day',
-     'date' => '2021-04-04 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-04-05' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'The Day Following Tomb Sweeping Day',
-     'date' => '2021-04-05 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-04-06' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'The Day Following Easter Monday',
-     'date' => '2021-04-06 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-05-01' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Labour Day',
-     'date' => '2021-05-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-05-09' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Mother\'s Day',
-     'date' => '2021-05-09 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-05-19' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Buddha\'s Birthday',
-     'date' => '2021-05-19 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-06-14' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Dragon Boat Festival',
-     'date' => '2021-06-14 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-06-20' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Father\'s Day',
-     'date' => '2021-06-20 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-07-01' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hong Kong Special Administrative Region Establishment Day',
-     'date' => '2021-07-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-08-21' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hungry Ghost Festival',
-     'date' => '2021-08-21 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-09-21' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Mid-Autumn Festival',
-     'date' => '2021-09-21 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-09-22' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Day after Mid-Autumn Festival',
-     'date' => '2021-09-22 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-10-01' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'National Day of the People\'s Republic of China',
-     'date' => '2021-10-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-10-14' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Chung Yeung Festival',
-     'date' => '2021-10-14 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-12-25' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Christmas Day',
-     'date' => '2021-12-25 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-12-27' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'First Weekday After Christmas Day',
-     'date' => '2021-12-27 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-12-31' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'New Year\'s Eve',
-     'date' => '2021-12-31 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2022-01-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'New Year\'s Day',
@@ -537,6 +369,174 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'New Year\'s Eve',
      'date' => '2023-12-31 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-01-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'New Year\'s Day',
+     'date' => '2024-01-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-02-10' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Lunar New Year\'s Day',
+     'date' => '2024-02-10 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-02-12' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Third Day of Lunar New Year',
+     'date' => '2024-02-12 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-02-13' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Fourth Day of Lunar New Year',
+     'date' => '2024-02-13 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-02-14' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Valentine\'s Day',
+     'date' => '2024-02-14 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-03-29' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Good Friday',
+     'date' => '2024-03-29 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-03-30' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Holy Saturday',
+     'date' => '2024-03-30 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-03-31' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Easter Sunday',
+     'date' => '2024-03-31 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-04-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Easter Monday',
+     'date' => '2024-04-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-04-04' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Tomb Sweeping Day',
+     'date' => '2024-04-04 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-05-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Labour Day',
+     'date' => '2024-05-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-05-12' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Mother\'s Day',
+     'date' => '2024-05-12 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-05-15' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Buddha\'s Birthday',
+     'date' => '2024-05-15 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-06-10' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Dragon Boat Festival',
+     'date' => '2024-06-10 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-06-16' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Father\'s Day',
+     'date' => '2024-06-16 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-07-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hong Kong Special Administrative Region Establishment Day',
+     'date' => '2024-07-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-08-17' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hungry Ghost Festival',
+     'date' => '2024-08-17 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-09-17' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Mid-Autumn Festival',
+     'date' => '2024-09-17 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-09-18' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Day after Mid-Autumn Festival',
+     'date' => '2024-09-18 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-10-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'National Day of the People\'s Republic of China',
+     'date' => '2024-10-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-10-11' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Chung Yeung Festival',
+     'date' => '2024-10-11 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-12-25' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Christmas Day',
+     'date' => '2024-12-25 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-12-26' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'First Weekday After Christmas Day',
+     'date' => '2024-12-26 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-12-31' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'New Year\'s Eve',
+     'date' => '2024-12-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

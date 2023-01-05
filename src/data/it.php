@@ -1,125 +1,6 @@
 <?php
 
 return array (
-  '2021-01-01' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Capodanno',
-     'date' => '2021-01-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-01-06' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Epifania',
-     'date' => '2021-01-06 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-02-17' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Mercoledì delle Ceneri',
-     'date' => '2021-02-17 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-03-19' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Festa del Papà',
-     'date' => '2021-03-19 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-04-02' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Venerdi Santo',
-     'date' => '2021-04-02 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-04-04' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Pasqua',
-     'date' => '2021-04-04 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-04-05' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Lunedì di Pasquetta',
-     'date' => '2021-04-05 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-04-25' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Liberazione',
-     'date' => '2021-04-25 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-05-01' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Festa del Lavoro',
-     'date' => '2021-05-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-05-09' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'La Festa della Mamma',
-     'date' => '2021-05-09 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-06-02' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Festa della Repubblica',
-     'date' => '2021-06-02 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-08-15' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Assunzione',
-     'date' => '2021-08-15 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-11-01' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Tutti i Santi',
-     'date' => '2021-11-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-12-08' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Immacolata',
-     'date' => '2021-12-08 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-12-25' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Natale',
-     'date' => '2021-12-25 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-12-26' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Santo Stefano',
-     'date' => '2021-12-26 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2021-12-31' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'San Silvestro',
-     'date' => '2021-12-31 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2022-01-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Capodanno',
@@ -355,6 +236,125 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'San Silvestro',
      'date' => '2023-12-31 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-01-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Capodanno',
+     'date' => '2024-01-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-01-06' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Epifania',
+     'date' => '2024-01-06 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-02-14' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Mercoledì delle Ceneri',
+     'date' => '2024-02-14 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-03-19' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Festa del Papà',
+     'date' => '2024-03-19 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-03-29' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Venerdi Santo',
+     'date' => '2024-03-29 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-03-31' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Pasqua',
+     'date' => '2024-03-31 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-04-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Lunedì di Pasquetta',
+     'date' => '2024-04-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-04-25' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Liberazione',
+     'date' => '2024-04-25 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-05-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Festa del Lavoro',
+     'date' => '2024-05-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-05-12' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'La Festa della Mamma',
+     'date' => '2024-05-12 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-06-02' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Festa della Repubblica',
+     'date' => '2024-06-02 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-08-15' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Assunzione',
+     'date' => '2024-08-15 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-11-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Tutti i Santi',
+     'date' => '2024-11-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-12-08' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Immacolata',
+     'date' => '2024-12-08 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-12-25' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Natale',
+     'date' => '2024-12-25 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-12-26' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Santo Stefano',
+     'date' => '2024-12-26 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-12-31' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'San Silvestro',
+     'date' => '2024-12-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

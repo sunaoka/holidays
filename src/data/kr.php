@@ -50,6 +50,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2022-05-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '노동절',
+     'date' => '2022-05-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2022-05-05' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '어린이날',
@@ -225,6 +232,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2023-05-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '노동절',
+     'date' => '2023-05-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2023-05-05' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '어린이날',
@@ -376,6 +390,13 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '식목일',
      'date' => '2024-04-05 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-05-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '노동절',
+     'date' => '2024-05-01 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

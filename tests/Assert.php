@@ -9,6 +9,8 @@ trait Assert
 {
     /**
      * @param string $exception
+     *
+     * @return void
      */
     public function expectExceptionCompat($exception)
     {
@@ -25,6 +27,12 @@ trait Assert
         $this->fail('Assertion not found');
     }
 
+    /**
+     * @param mixed  $actual
+     * @param string $message
+     *
+     * @return void
+     */
     public function assertIsArrayCompat($actual, $message = '')
     {
         if (method_exists($this, 'assertIsArray')) {

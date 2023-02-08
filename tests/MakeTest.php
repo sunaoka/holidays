@@ -6,6 +6,9 @@ use Sunaoka\Holidays\Task\Make;
 
 class MakeTest extends TestCase
 {
+    /**
+     * @return void
+     */
     public function testMakeSuccess()
     {
         $config = [

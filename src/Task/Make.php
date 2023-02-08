@@ -16,7 +16,7 @@ class Make
         $pattern = '/DTSTART;VALUE=DATE:(?<date>\d{8})[\s\S]*SUMMARY:(?<name>.+?)/Um';
         if (preg_match_all($pattern, $ical, $m, PREG_PATTERN_ORDER)) {
             foreach ($m['date'] as $index => $date) {
-                $ymd = date('Y-m-d', strtotime($date));
+                $ymd = date('Y-m-d', (int)strtotime($date));
                 $holiday[$ymd] = $config['filter']($ymd, trim($m['name'][$index]));
             }
         }

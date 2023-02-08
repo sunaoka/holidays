@@ -4,12 +4,16 @@ namespace Sunaoka\Holidays\Tests;
 
 use Carbon\Carbon;
 use DateTime;
+use Exception;
 use Sunaoka\Holidays\Exceptions\UnsupportedCountryException;
 use Sunaoka\Holidays\Holiday;
 use Sunaoka\Holidays\Holidays;
 
 class HolidaysTest extends TestCase
 {
+    /**
+     * @return void
+     */
     public function testUnsupportedCountry()
     {
         $this->expectExceptionCompat(UnsupportedCountryException::class);
@@ -17,6 +21,11 @@ class HolidaysTest extends TestCase
         new Holidays('ZZ');
     }
 
+    /**
+     * @return void
+     *
+     * @throws Exception
+     */
     public function testIsHolidaySuccess()
     {
         $holidays = new Holidays('US');
@@ -40,6 +49,9 @@ class HolidaysTest extends TestCase
         self::assertTrue($actual, 'date time (Carbon)');
     }
 
+    /**
+     * @return void
+     */
     public function testGetHolidaysSuccess()
     {
         $year = (int)date('Y');
@@ -67,6 +79,9 @@ class HolidaysTest extends TestCase
         self::assertSame("New Year's Day", $actual[0]->getName());
     }
 
+    /**
+     * @return void
+     */
     public function testBetweenSuccess()
     {
         $holidays = new Holidays('US');
@@ -90,6 +105,9 @@ class HolidaysTest extends TestCase
         self::assertCount(2, $actual);
     }
 
+    /**
+     * @return void
+     */
     public function testAddHoliday()
     {
         $holidays = new Holidays('US');
@@ -104,6 +122,9 @@ class HolidaysTest extends TestCase
         self::assertSame('The Unix epoch', $actual[0]->getName());
     }
 
+    /**
+     * @return void
+     */
     public function testAddHolidays()
     {
         $holidays = new Holidays('US');

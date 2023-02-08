@@ -2,11 +2,15 @@
 
 namespace Sunaoka\Holidays;
 
+use DateTime;
 use DateTimeImmutable;
 use DateTimeInterface;
 use Exception;
 use Sunaoka\Holidays\Exceptions\UnsupportedCountryException;
 
+/**
+ * @template T of DateTimeImmutable|DateTime
+ */
 class Holidays
 {
     /**
@@ -28,7 +32,7 @@ class Holidays
     /**
      * Finds whether a date is a holiday
      *
-     * @param DateTimeInterface|string $date Date
+     * @param T|string $date Date
      *
      * @return bool
      */
@@ -51,10 +55,12 @@ class Holidays
             $startDate = new DateTimeImmutable("{$year}-{$month}-01");
             $endDate = $startDate->modify('last day of');
             $holidays = $this->filter($startDate, $endDate);
+
         } elseif ($year !== null) {
             $startDate = new DateTimeImmutable("{$year}-01-01");
             $endDate = new DateTimeImmutable("{$year}-12-31");
             $holidays = $this->filter($startDate, $endDate);
+
         } else {
             $holidays = $this->holidays;
         }
@@ -65,8 +71,8 @@ class Holidays
     /**
      * Returns holidays for a given date range.
      *
-     * @param DateTimeInterface|string $start The start date
-     * @param DateTimeInterface|string $end   The end date
+     * @param T|string $start The start date
+     * @param T|string $end   The end date
      *
      * @return array
      */
@@ -113,8 +119,8 @@ class Holidays
     }
 
     /**
-     * @param DateTimeInterface $startDate
-     * @param DateTimeInterface $endDate
+     * @param T|DateTimeInterface $startDate
+     * @param T|DateTimeInterface $endDate
      *
      * @return array
      */
@@ -144,9 +150,9 @@ class Holidays
     }
 
     /**
-     * @param DateTimeInterface|string $date
+     * @param T|string $date
      *
-     * @return DateTimeInterface
+     * @return ($date is T ? T : DateTimeImmutable)
      */
     protected function resolveHoliday($date)
     {

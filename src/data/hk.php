@@ -178,7 +178,7 @@ return array (
   )),
   '2022-12-31' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'New Year’ Eve',
+     'name' => 'New Year’s Eve',
      'date' => '2022-12-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -367,7 +367,7 @@ return array (
   )),
   '2023-12-31' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'New Year’ Eve',
+     'name' => 'New Year’s Eve',
      'date' => '2023-12-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -535,7 +535,7 @@ return array (
   )),
   '2024-12-31' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'New Year’ Eve',
+     'name' => 'New Year’s Eve',
      'date' => '2024-12-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

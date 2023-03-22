@@ -157,7 +157,7 @@ return array (
   )),
   '2022-10-24' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Diwali / Deepavali',
+     'name' => 'Diwali',
      'date' => '2022-10-24 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -220,7 +220,7 @@ return array (
   )),
   '2023-01-23' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Lunar New Year Joint Holiday',
+     'name' => 'Cuti Bersama Tahun Baru Imlek',
      'date' => '2023-01-23 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -241,7 +241,7 @@ return array (
   )),
   '2023-03-23' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Joint Holiday for Bali\'s Day of Silence and Hindu New Year (Nyepi)',
+     'name' => 'Cuti Bersama Hari Suci Nyepi (Tahun Baru Saka)',
      'date' => '2023-03-23 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -374,7 +374,7 @@ return array (
   )),
   '2023-11-12' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Diwali / Deepavali',
+     'name' => 'Hari Ayah',
      'date' => '2023-11-12 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -535,7 +535,7 @@ return array (
   )),
   '2024-11-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Diwali / Deepavali',
+     'name' => 'Diwali',
      'date' => '2024-11-01 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

@@ -442,6 +442,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2024-03-12' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Ramadan Start',
+     'date' => '2024-03-12 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2024-03-29' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Wafat Isa Almasih',

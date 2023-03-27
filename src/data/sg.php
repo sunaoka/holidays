@@ -183,6 +183,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2023-03-23' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Ramadan Start',
+     'date' => '2023-03-23 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2023-04-07' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Good Friday',
@@ -299,6 +306,13 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Lunar New Year\'s Day',
      'date' => '2024-02-10 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-03-11' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Ramadan Start',
+     'date' => '2024-03-11 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

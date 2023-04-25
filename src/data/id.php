@@ -260,6 +260,20 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2023-04-19' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Cuti Bersama Idul Fitri',
+     'date' => '2023-04-19 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-04-20' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Cuti Bersama Idul Fitri',
+     'date' => '2023-04-20 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2023-04-21' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Hari Kartini',
@@ -292,13 +306,6 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Cuti Bersama Idul Fitri',
      'date' => '2023-04-25 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-04-26' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Cuti Bersama Idul Fitri',
-     'date' => '2023-04-26 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

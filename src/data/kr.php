@@ -267,6 +267,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2023-05-29' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '석가탄신일 대체공휴일',
+     'date' => '2023-05-29 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2023-06-06' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '현충일',

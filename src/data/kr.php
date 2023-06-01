@@ -66,7 +66,7 @@ return array (
   )),
   '2022-05-08' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '어버이날',
+     'name' => '부처님오신날',
      'date' => '2022-05-08 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -416,7 +416,7 @@ return array (
   )),
   '2024-05-15' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '부처님오신날',
+     'name' => '스승의날',
      'date' => '2024-05-15 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

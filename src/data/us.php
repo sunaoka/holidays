@@ -66,7 +66,7 @@ return array (
   )),
   '2022-04-18' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Tax Day',
+     'name' => 'Easter Monday',
      'date' => '2022-04-18 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -115,7 +115,7 @@ return array (
   )),
   '2022-06-19' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Father\'s Day',
+     'name' => 'Juneteenth',
      'date' => '2022-06-19 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -395,7 +395,7 @@ return array (
   )),
   '2023-10-09' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Columbus Day',
+     'name' => 'Indigenous Peoples\' Day',
      'date' => '2023-10-09 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

@@ -45,7 +45,7 @@ return array (
   )),
   '2022-02-04' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '農曆春節假日',
+     'name' => '農民節',
      'date' => '2022-02-04 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -276,7 +276,7 @@ return array (
   )),
   '2023-02-04' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '農曆春節補班',
+     'name' => '農民節',
      'date' => '2023-02-04 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -605,7 +605,7 @@ return array (
   )),
   '2024-04-04' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '清明節',
+     'name' => '兒童節',
      'date' => '2024-04-04 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

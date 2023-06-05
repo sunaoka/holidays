@@ -52,7 +52,7 @@ return array (
   )),
   '2022-03-27' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Daylight Saving Time starts',
+     'name' => 'Mother\'s Day',
      'date' => '2022-03-27 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

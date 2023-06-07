@@ -80,7 +80,7 @@ return array (
   )),
   '2022-08-15' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Assunzione',
+     'name' => 'Ferragosto',
      'date' => '2022-08-15 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -318,7 +318,7 @@ return array (
   )),
   '2024-08-15' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Assunzione',
+     'name' => 'Ferragosto',
      'date' => '2024-08-15 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

@@ -87,7 +87,7 @@ return array (
   )),
   '2022-05-08' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Mother\'s Day',
+     'name' => 'Buddha\'s Birthday',
      'date' => '2022-05-08 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

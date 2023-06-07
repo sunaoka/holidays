@@ -108,14 +108,14 @@ return array (
   )),
   '2022-05-08' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Muttertag',
+     'name' => 'Jahrestag der Befreiung vom Nationalsozialismus (regionaler Feierta',
      'date' => '2022-05-08 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2022-05-26' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Vatertag',
+     'name' => 'Christi Himmelfahrt',
      'date' => '2022-05-26 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -388,7 +388,7 @@ return array (
   )),
   '2023-05-18' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Christi Himmelfahrt',
+     'name' => 'Vatertag',
      'date' => '2023-05-18 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -451,7 +451,7 @@ return array (
   )),
   '2023-10-31' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Halloween',
+     'name' => 'Reformationstag (regionaler Feiertag)',
      'date' => '2023-10-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -570,7 +570,7 @@ return array (
   )),
   '2024-02-14' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Aschermittwoch',
+     'name' => 'Valentinstag',
      'date' => '2024-02-14 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -612,7 +612,7 @@ return array (
   )),
   '2024-03-31' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Beginn der Sommerzeit',
+     'name' => 'Ostern (regionaler Feiertag)',
      'date' => '2024-03-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -710,7 +710,7 @@ return array (
   )),
   '2024-10-31' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Halloween',
+     'name' => 'Reformationstag (regionaler Feiertag)',
      'date' => '2024-10-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

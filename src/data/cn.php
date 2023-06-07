@@ -150,7 +150,7 @@ return array (
   )),
   '2022-05-04' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '青年节',
+     'name' => '五一劳动节',
      'date' => '2022-05-04 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -192,7 +192,7 @@ return array (
   )),
   '2022-09-10' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '中秋节',
+     'name' => '教师节',
      'date' => '2022-09-10 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -234,7 +234,7 @@ return array (
   )),
   '2022-10-04' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '重阳节',
+     'name' => '黄金周 (国庆节)',
      'date' => '2022-10-04 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

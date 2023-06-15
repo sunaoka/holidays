@@ -309,6 +309,20 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2024-02-11' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Second Day of Lunar New Year',
+     'date' => '2024-02-11 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-02-12' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Day off for Lunar New Year\'s Day',
+     'date' => '2024-02-12 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2024-03-11' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Ramadan Start',
@@ -386,10 +400,10 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2024-11-01' => 
+  '2024-10-31' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Diwali/Deepavali',
-     'date' => '2024-11-01 00:00:00.000000',
+     'date' => '2024-10-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

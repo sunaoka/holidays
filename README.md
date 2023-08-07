@@ -21,8 +21,9 @@
 | :it: Italy                    | `IT` |
 | :jp: Japan                    | `JP` |
 | :kr: Korea                    | `KR` |
-| :taiwan: Taiwan               | `TW` |
+| :luxembourg: Luxembourg       | `LU` |
 | :singapore: Singapore         | `SG` |
+| :taiwan: Taiwan               | `TW` |
 | :us: United States of America | `US` |
 
 ## Installation

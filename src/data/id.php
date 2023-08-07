@@ -449,6 +449,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2024-03-11' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Suci Nyepi (Tahun Baru Saka)',
+     'date' => '2024-03-11 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2024-03-12' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Ramadan Start',
@@ -470,17 +477,17 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2024-04-10' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Idul Fitri',
+     'date' => '2024-04-10 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2024-04-11' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Hari Idul Fitri',
      'date' => '2024-04-11 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-04-12' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Idul Fitri',
-     'date' => '2024-04-12 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -505,6 +512,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2024-05-23' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Raya Waisak',
+     'date' => '2024-05-23 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2024-06-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Hari Lahir Pancasila',
@@ -512,17 +526,17 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2024-06-18' => 
+  '2024-06-17' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Idul Adha (Lebaran Haji)',
-     'date' => '2024-06-18 00:00:00.000000',
+     'date' => '2024-06-17 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2024-07-08' => 
+  '2024-07-07' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Satu Muharam / Tahun Baru Hijriah',
-     'date' => '2024-07-08 00:00:00.000000',
+     'date' => '2024-07-07 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -533,10 +547,10 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2024-09-16' => 
+  '2024-09-15' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Maulid Nabi Muhammad',
-     'date' => '2024-09-16 00:00:00.000000',
+     'date' => '2024-09-15 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

@@ -533,6 +533,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2024-02-08' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '農曆春節假日',
+     'date' => '2024-02-08 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2024-02-09' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '農曆除夕',
@@ -572,6 +579,13 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '農曆春節假日',
      'date' => '2024-02-14 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-02-17' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '農曆春節補班',
+     'date' => '2024-02-17 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

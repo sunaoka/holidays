@@ -134,3 +134,28 @@ $holidays->isHoliday('2021-05-05');
 ```bash
 php ./vendor/bin/holiday-update
 ```
+
+### Remove unused country holidays
+
+To avoid shipping unused country holidays, you can run the `Sunaoka\\Holidays\\Task\\Composer::removeHolidays` task and specify the services you want to keep in `composer.json`:
+
+```json
+{
+    "require": {
+      "sunaoka/holidays": "^1.1"
+    },
+    "scripts": {
+        "pre-autoload-dump": [
+            "Sunaoka\\Holidays\\Task\\Composer::removeHolidays"
+        ]
+    },
+    "extra": {
+        "sunaoka/holidays": [
+            "jp",
+            "us"
+        ]
+    }
+}
+```
+
+In this example, when running `composer update` or `composer install`, all holidays except Japan (`jp`) and United States of America (`us`) will be removed.

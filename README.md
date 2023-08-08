@@ -146,7 +146,7 @@ To avoid shipping unused country holidays, you can run the `Sunaoka\\Holidays\\T
     },
     "scripts": {
         "pre-autoload-dump": [
-          "Sunaoka\\Holidays\\Task\\Composer::removeHolidays"
+            "Sunaoka\\Holidays\\Task\\Composer::removeHolidays"
         ]
     },
     "extra": {

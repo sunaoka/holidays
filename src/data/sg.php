@@ -248,8 +248,15 @@ return array (
   )),
   '2023-09-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Teachers\' Day',
+     'name' => 'Election Day',
      'date' => '2023-09-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-09-11' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Teachers\' Day',
+     'date' => '2023-09-11 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

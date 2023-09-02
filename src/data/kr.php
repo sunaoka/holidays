@@ -323,6 +323,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2023-10-02' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '추석 (대체공휴일)',
+     'date' => '2023-10-02 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2023-10-03' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '개천절',

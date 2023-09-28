@@ -442,6 +442,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2024-02-09' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Cuti Bersama Tahun Baru Imlek',
+     'date' => '2024-02-09 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2024-02-10' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Tahun Baru Imlek',
@@ -458,7 +465,7 @@ return array (
   )),
   '2024-03-12' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Ramadan Start',
+     'name' => 'Cuti Bersama Hari Suci Nyepi (Tahun Baru Saka)',
      'date' => '2024-03-12 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -477,6 +484,20 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2024-04-08' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Cuti Bersama Idul Fitri',
+     'date' => '2024-04-08 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-04-09' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Cuti Bersama Idul Fitri',
+     'date' => '2024-04-09 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2024-04-10' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Hari Idul Fitri',
@@ -488,6 +509,20 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Hari Idul Fitri',
      'date' => '2024-04-11 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-04-12' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Cuti Bersama Idul Fitri',
+     'date' => '2024-04-12 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-04-15' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Cuti Bersama Idul Fitri',
+     'date' => '2024-04-15 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -512,10 +547,24 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2024-05-10' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Cuti Bersama Kenaikan Isa Al Masih',
+     'date' => '2024-05-10 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2024-05-23' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Hari Raya Waisak',
      'date' => '2024-05-23 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-05-24' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Cuti Bersama Waisak',
+     'date' => '2024-05-24 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -530,6 +579,13 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Idul Adha (Lebaran Haji)',
      'date' => '2024-06-17 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-06-18' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Idul Adha (Lebaran Haji)',
+     'date' => '2024-06-18 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -600,6 +656,13 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Hari Raya Natal',
      'date' => '2024-12-25 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-12-26' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Cuti Bersama Natal (Hari Tinju)',
+     'date' => '2024-12-26 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

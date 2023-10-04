@@ -143,7 +143,7 @@ return array (
   )),
   '2022-10-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'National Day of the People\'s Republic of China',
+     'name' => 'National Day',
      'date' => '2022-10-01 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -332,14 +332,14 @@ return array (
   )),
   '2023-10-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'National Day of the People\'s Republic of China',
+     'name' => 'National Day',
      'date' => '2023-10-01 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2023-10-02' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'National Day of the People\'s Republic of China observed',
+     'name' => 'National Day observed',
      'date' => '2023-10-02 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -507,7 +507,7 @@ return array (
   )),
   '2024-10-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'National Day of the People\'s Republic of China',
+     'name' => 'National Day',
      'date' => '2024-10-01 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

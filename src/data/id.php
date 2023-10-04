@@ -381,7 +381,7 @@ return array (
   )),
   '2023-11-12' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Diwali',
+     'name' => 'Hari Ayah',
      'date' => '2023-11-12 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -465,7 +465,7 @@ return array (
   )),
   '2024-03-12' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Cuti Bersama Hari Suci Nyepi (Tahun Baru Saka)',
+     'name' => 'Ramadan Start',
      'date' => '2024-03-12 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

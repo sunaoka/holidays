@@ -612,7 +612,7 @@ return array (
   )),
   '2024-03-31' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Beginn der Sommerzeit',
+     'name' => 'Ostern (regionaler Feiertag)',
      'date' => '2024-03-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

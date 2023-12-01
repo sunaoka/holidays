@@ -38,7 +38,7 @@ return array (
   )),
   '2022-03-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Carnival / Shrove Tuesday / Pancake Day',
+     'name' => 'St. David\'s Day (Wales)',
      'date' => '2022-03-01 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -260,6 +260,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2023-03-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'St. David\'s Day (Wales)',
+     'date' => '2023-03-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2023-03-17' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'St Patrick\'s Day (Northern Ireland)',
@@ -467,6 +474,13 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Valentine\'s Day',
      'date' => '2024-02-14 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-03-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'St. David\'s Day (Wales)',
+     'date' => '2024-03-01 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

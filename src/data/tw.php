@@ -624,6 +624,27 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2024-04-05' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '國定假日',
+     'date' => '2024-04-05 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-04-06' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '國定假日',
+     'date' => '2024-04-06 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-04-07' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '國定假日',
+     'date' => '2024-04-07 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2024-05-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '勞動節',

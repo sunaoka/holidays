@@ -372,10 +372,24 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2024-02-09' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '설날 연휴',
+     'date' => '2024-02-09 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2024-02-10' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '설날',
      'date' => '2024-02-10 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-02-11' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '설날 연휴',
+     'date' => '2024-02-11 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -411,6 +425,13 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '어린이날',
      'date' => '2024-05-05 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-05-06' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '쉬는 날 어린이날',
+     'date' => '2024-05-06 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

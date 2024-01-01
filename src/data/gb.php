@@ -1,223 +1,6 @@
 <?php
 
 return array (
-  '2022-01-01' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'New Year\'s Day',
-     'date' => '2022-01-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-01-03' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'New Year\'s Day observed',
-     'date' => '2022-01-03 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-01-04' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '2nd January (substitute day) (Scotland)',
-     'date' => '2022-01-04 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-01-05' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Twelfth Night',
-     'date' => '2022-01-05 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-02-14' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Valentine\'s Day',
-     'date' => '2022-02-14 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-03-01' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'St. David\'s Day (Wales)',
-     'date' => '2022-03-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-03-17' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'St Patrick\'s Day (Northern Ireland)',
-     'date' => '2022-03-17 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-03-27' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Mother\'s Day',
-     'date' => '2022-03-27 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-04-15' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Good Friday',
-     'date' => '2022-04-15 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-04-17' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Easter Sunday',
-     'date' => '2022-04-17 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-04-18' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Easter Monday (regional holiday)',
-     'date' => '2022-04-18 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-04-23' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'St. George\'s Day',
-     'date' => '2022-04-23 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-05-02' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Early May Bank Holiday',
-     'date' => '2022-05-02 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-06-02' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Spring Bank Holiday',
-     'date' => '2022-06-02 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-06-03' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Queen Elizabeth II\'s Platinum Jubilee',
-     'date' => '2022-06-03 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-06-11' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Queen Elizabeth II\'s Birthday',
-     'date' => '2022-06-11 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-06-19' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Father\'s Day',
-     'date' => '2022-06-19 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-07-12' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Battle of the Boyne (Northern Ireland)',
-     'date' => '2022-07-12 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-08-01' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Summer Bank Holiday (Scotland)',
-     'date' => '2022-08-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-08-29' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Summer Bank Holiday (regional holiday)',
-     'date' => '2022-08-29 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-09-19' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'State Funeral of Queen Elizabeth II',
-     'date' => '2022-09-19 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-10-30' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Daylight Saving Time ends',
-     'date' => '2022-10-30 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-10-31' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Halloween',
-     'date' => '2022-10-31 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-11-05' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Guy Fawkes Day',
-     'date' => '2022-11-05 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-11-13' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Remembrance Sunday',
-     'date' => '2022-11-13 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-11-30' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'St Andrew\'s Day (Scotland)',
-     'date' => '2022-11-30 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-12-24' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Christmas Eve',
-     'date' => '2022-12-24 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-12-25' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Christmas Day',
-     'date' => '2022-12-25 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-12-26' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Boxing Day',
-     'date' => '2022-12-26 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-12-27' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Substitute Bank Holiday for Christmas Day',
-     'date' => '2022-12-27 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2022-12-31' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'New Year\'s Eve',
-     'date' => '2022-12-31 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2023-01-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'New Year\'s Day',
@@ -649,6 +432,216 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'New Year\'s Eve',
      'date' => '2024-12-31 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-01-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'New Year\'s Day',
+     'date' => '2025-01-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-01-02' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '2nd January (Scotland)',
+     'date' => '2025-01-02 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-01-05' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Twelfth Night',
+     'date' => '2025-01-05 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-02-14' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Valentine\'s Day',
+     'date' => '2025-02-14 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-03-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'St. David\'s Day (Wales)',
+     'date' => '2025-03-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-03-04' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Carnival / Shrove Tuesday / Pancake Day',
+     'date' => '2025-03-04 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-03-17' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'St Patrick\'s Day (Northern Ireland)',
+     'date' => '2025-03-17 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-03-30' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Mother\'s Day',
+     'date' => '2025-03-30 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-04-18' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Good Friday',
+     'date' => '2025-04-18 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-04-20' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Easter Sunday',
+     'date' => '2025-04-20 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-04-21' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Easter Monday (regional holiday)',
+     'date' => '2025-04-21 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-04-23' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'St. George\'s Day',
+     'date' => '2025-04-23 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-05-05' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Early May Bank Holiday',
+     'date' => '2025-05-05 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-05-26' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Spring Bank Holiday',
+     'date' => '2025-05-26 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-06-15' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Father\'s Day',
+     'date' => '2025-06-15 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-06-21' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'King\'s Birthday',
+     'date' => '2025-06-21 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-07-12' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Battle of the Boyne (Northern Ireland)',
+     'date' => '2025-07-12 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-07-14' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Battle of the Boyne observed (Northern Ireland)',
+     'date' => '2025-07-14 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-08-04' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Summer Bank Holiday (Scotland)',
+     'date' => '2025-08-04 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-08-25' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Summer Bank Holiday (regional holiday)',
+     'date' => '2025-08-25 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-10-26' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Daylight Saving Time ends',
+     'date' => '2025-10-26 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-10-31' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Halloween',
+     'date' => '2025-10-31 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-11-05' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Guy Fawkes Day',
+     'date' => '2025-11-05 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-11-09' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Remembrance Sunday',
+     'date' => '2025-11-09 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-11-30' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'St Andrew\'s Day (Scotland)',
+     'date' => '2025-11-30 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-12-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'St Andrew\'s Day observed (Scotland)',
+     'date' => '2025-12-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-12-24' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Christmas Eve',
+     'date' => '2025-12-24 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-12-25' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Christmas Day',
+     'date' => '2025-12-25 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-12-26' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Boxing Day',
+     'date' => '2025-12-26 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-12-31' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'New Year\'s Eve',
+     'date' => '2025-12-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

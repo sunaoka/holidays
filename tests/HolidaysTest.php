@@ -86,23 +86,25 @@ class HolidaysTest extends TestCase
     {
         $holidays = new Holidays('US');
 
+        $week = (int) date('w', (int) strtotime(date('Y-01-01')));
+
         $actual = $holidays->between(date('Y-01-01'), date('Y-01-07'));
         $this->assertIsArrayCompat($actual);
         $this->assertInstanceOf(Holiday::class, $actual[0]);
 
-        self::assertCount(2, $actual);
+        self::assertCount($week === 0 ? 2 : 1, $actual);
 
         $actual = $holidays->between(date('Y-01-01 12:34:56'), date('Y-01-07 12:35:56'));
         $this->assertIsArrayCompat($actual);
         $this->assertInstanceOf(Holiday::class, $actual[0]);
 
-        self::assertCount(2, $actual);
+        self::assertCount($week === 0 ? 2 : 1, $actual);
 
         $actual = $holidays->between(date('Y-01-07'), date('Y-01-01'));
         $this->assertIsArrayCompat($actual);
         $this->assertInstanceOf(Holiday::class, $actual[0]);
 
-        self::assertCount(2, $actual);
+        self::assertCount($week === 0 ? 2 : 1, $actual);
     }
 
     /**

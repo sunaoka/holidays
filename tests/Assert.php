@@ -8,7 +8,7 @@ namespace Sunaoka\Holidays\Tests;
 trait Assert
 {
     /**
-     * @param string $exception
+     * @param class-string<\Exception> $exception
      *
      * @return void
      */

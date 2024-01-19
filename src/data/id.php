@@ -253,6 +253,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2024-02-14' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Pemilihan',
+     'date' => '2024-02-14 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2024-03-11' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Hari Suci Nyepi (Tahun Baru Saka)',

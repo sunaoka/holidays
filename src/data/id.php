@@ -38,7 +38,7 @@ return array (
   )),
   '2023-03-23' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Ramadan Start',
+     'name' => 'Cuti Bersama Hari Suci Nyepi (Tahun Baru Saka)',
      'date' => '2023-03-23 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -47,13 +47,6 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Wafat Isa Almasih',
      'date' => '2023-04-07 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-04-09' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Paskah',
-     'date' => '2023-04-09 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -169,41 +162,6 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2023-10-02' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Batik',
-     'date' => '2023-10-02 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-11-12' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Ayah',
-     'date' => '2023-11-12 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-11-25' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Guru',
-     'date' => '2023-11-25 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-12-22' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Ibu',
-     'date' => '2023-12-22 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-12-24' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Malam Natal',
-     'date' => '2023-12-24 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2023-12-25' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Hari Raya Natal',
@@ -215,13 +173,6 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Cuti Bersama Natal (Hari Tinju)',
      'date' => '2023-12-26 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-12-31' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Malam Tahun Baru',
-     'date' => '2023-12-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -253,6 +204,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2024-02-14' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Pemilihan',
+     'date' => '2024-02-14 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2024-03-11' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Hari Suci Nyepi (Tahun Baru Saka)',
@@ -262,7 +220,7 @@ return array (
   )),
   '2024-03-12' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Ramadan Start',
+     'name' => 'Cuti Bersama Hari Suci Nyepi (Tahun Baru Saka)',
      'date' => '2024-03-12 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -320,13 +278,6 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Cuti Bersama Idul Fitri',
      'date' => '2024-04-15 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-04-21' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Kartini',
-     'date' => '2024-04-21 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -407,48 +358,6 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2024-10-02' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Batik',
-     'date' => '2024-10-02 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-11-01' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Diwali',
-     'date' => '2024-11-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-11-12' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Ayah',
-     'date' => '2024-11-12 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-11-25' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Guru',
-     'date' => '2024-11-25 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-12-22' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Ibu',
-     'date' => '2024-12-22 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-12-24' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Malam Natal',
-     'date' => '2024-12-24 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2024-12-25' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Hari Raya Natal',
@@ -460,13 +369,6 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Cuti Bersama Natal (Hari Tinju)',
      'date' => '2024-12-26 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-12-31' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Malam Tahun Baru',
-     'date' => '2024-12-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -491,13 +393,6 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2025-03-02' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Ramadan Start',
-     'date' => '2025-03-02 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2025-04-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Hari Idul Fitri',
@@ -516,20 +411,6 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Wafat Isa Almasih',
      'date' => '2025-04-18 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2025-04-20' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Paskah',
-     'date' => '2025-04-20 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2025-04-21' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Kartini',
-     'date' => '2025-04-21 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -589,59 +470,10 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2025-10-02' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Batik',
-     'date' => '2025-10-02 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2025-10-21' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Diwali',
-     'date' => '2025-10-21 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2025-11-12' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Ayah',
-     'date' => '2025-11-12 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2025-11-25' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Guru',
-     'date' => '2025-11-25 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2025-12-22' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Ibu',
-     'date' => '2025-12-22 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2025-12-24' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Malam Natal',
-     'date' => '2025-12-24 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2025-12-25' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Hari Raya Natal',
      'date' => '2025-12-25 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2025-12-31' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Malam Tahun Baru',
-     'date' => '2025-12-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

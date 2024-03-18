@@ -64,31 +64,10 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2023-02-05' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '元宵节',
-     'date' => '2023-02-05 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-02-21' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '中和节',
-     'date' => '2023-02-21 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2023-03-08' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '国际妇女节',
      'date' => '2023-03-08 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-03-12' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '植树节',
-     'date' => '2023-03-12 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -162,27 +141,6 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2023-08-22' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '七夕',
-     'date' => '2023-08-22 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-08-30' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '中元节',
-     'date' => '2023-08-30 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-09-10' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '教师节',
-     'date' => '2023-09-10 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2023-09-29' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '中秋节',
@@ -239,31 +197,10 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2023-10-23' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '重阳节',
-     'date' => '2023-10-23 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-12-25' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '圣诞节',
-     'date' => '2023-12-25 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2024-01-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '元旦',
      'date' => '2024-01-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-02-09' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '除夕',
-     'date' => '2024-02-09 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -323,31 +260,10 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2024-02-24' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '元宵节',
-     'date' => '2024-02-24 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2024-03-08' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '国际妇女节',
      'date' => '2024-03-08 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-03-11' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '中和节',
-     'date' => '2024-03-11 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-03-12' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '植树节',
-     'date' => '2024-03-12 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -411,27 +327,6 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '端午节',
      'date' => '2024-06-10 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-08-10' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '七夕',
-     'date' => '2024-08-10 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-08-18' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '中元节',
-     'date' => '2024-08-18 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-09-10' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '教师节',
-     'date' => '2024-09-10 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -505,20 +400,6 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2024-10-11' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '重阳节',
-     'date' => '2024-10-11 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-12-25' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '圣诞节',
-     'date' => '2024-12-25 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2025-01-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '元旦',
@@ -575,31 +456,10 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2025-02-12' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '元宵节',
-     'date' => '2025-02-12 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2025-03-01' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '中和节',
-     'date' => '2025-03-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2025-03-08' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '国际妇女节',
      'date' => '2025-03-08 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2025-03-12' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '植树节',
-     'date' => '2025-03-12 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -628,27 +488,6 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '端午节',
      'date' => '2025-05-31 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2025-08-29' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '七夕',
-     'date' => '2025-08-29 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2025-09-06' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '中元节',
-     'date' => '2025-09-06 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2025-09-10' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '教师节',
-     'date' => '2025-09-10 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -691,20 +530,6 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '中秋节',
      'date' => '2025-10-06 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2025-10-29' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '重阳节',
-     'date' => '2025-10-29 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2025-12-25' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '圣诞节',
-     'date' => '2025-12-25 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

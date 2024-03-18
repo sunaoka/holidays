@@ -17,7 +17,7 @@ class Make
         $end = new DateTimeImmutable('last day of December next year');
 
         $ical = (string)file_get_contents($config['ical']);
-        file_put_contents('/tmp/fr.ics', $ical);
+
         $holiday = [];
         $pattern = '/DTSTART;VALUE=DATE:(?<date>\d{8})[\s\S]*DESCRIPTION:(?<description>.+?)[\s\S]*SUMMARY:(?<name>.+?)/Um';
         if (preg_match_all($pattern, $ical, $m, PREG_PATTERN_ORDER)) {

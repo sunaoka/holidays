@@ -8,13 +8,6 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2023-04-09' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Pâques',
-     'date' => '2023-04-09 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2023-04-10' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Le lundi de Pâques',
@@ -43,24 +36,10 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2023-05-28' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Pentecôte',
-     'date' => '2023-05-28 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2023-05-29' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Le lundi de Pentecôte',
      'date' => '2023-05-29 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-06-11' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Fete Des Meres',
-     'date' => '2023-06-11 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -75,13 +54,6 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'L\'Assomption',
      'date' => '2023-08-15 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-10-01' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Fete Des Peres',
-     'date' => '2023-10-01 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -106,24 +78,10 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2023-12-31' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'la Saint-Sylvestre',
-     'date' => '2023-12-31 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2024-01-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Jour de l\'an',
      'date' => '2024-01-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-03-31' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Pâques',
-     'date' => '2024-03-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -148,24 +106,10 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2024-05-19' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Pentecôte',
-     'date' => '2024-05-19 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2024-05-20' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Le lundi de Pentecôte',
      'date' => '2024-05-20 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-06-09' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Fete Des Meres',
-     'date' => '2024-06-09 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -180,13 +124,6 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'L\'Assomption',
      'date' => '2024-08-15 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-10-06' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Fete Des Peres',
-     'date' => '2024-10-06 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -211,24 +148,10 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2024-12-31' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'la Saint-Sylvestre',
-     'date' => '2024-12-31 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2025-01-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Jour de l\'an',
      'date' => '2025-01-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2025-04-20' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Pâques',
-     'date' => '2025-04-20 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -260,13 +183,6 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2025-06-08' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Pentecôte',
-     'date' => '2025-06-08 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2025-06-09' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Le lundi de Pentecôte',
@@ -288,13 +204,6 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2025-10-05' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Fete Des Peres',
-     'date' => '2025-10-05 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2025-11-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'La Toussaint',
@@ -313,13 +222,6 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Saint Étienne',
      'date' => '2025-12-26 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2025-12-31' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'la Saint-Sylvestre',
-     'date' => '2025-12-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

@@ -176,6 +176,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2024-04-10' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '제21대 국회의원선거일',
+     'date' => '2024-04-10 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2024-05-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '노동절',

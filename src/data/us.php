@@ -178,7 +178,7 @@ return array (
   )),
   '2025-01-20' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Inauguration Day (regional holiday)',
+     'name' => 'Martin Luther King Jr. Day',
      'date' => '2025-01-20 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

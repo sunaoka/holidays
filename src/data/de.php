@@ -64,6 +64,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2023-08-15' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Mariä Himmelfahrt (regionaler Feiertag)',
+     'date' => '2023-08-15 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2023-09-20' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Weltkindertag (Thüringen)',
@@ -260,13 +267,6 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2025-04-20' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Ostern (regionaler Feiertag)',
-     'date' => '2025-04-20 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2025-04-21' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Ostermontag',
@@ -288,6 +288,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2025-06-08' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Pfingsten (regionaler Feiertag)',
+     'date' => '2025-06-08 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2025-06-09' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Pfingstmontag',
@@ -306,13 +313,6 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Hohes Friedensfest Augsburg (Bayern)',
      'date' => '2025-08-08 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2025-08-15' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Mariä Himmelfahrt (regionaler Feiertag)',
-     'date' => '2025-08-15 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

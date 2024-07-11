@@ -344,6 +344,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2025-01-27' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '農曆春節假日',
+     'date' => '2025-01-27 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2025-01-28' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '農曆除夕',
@@ -393,17 +400,24 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2025-04-03' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '國定假日',
+     'date' => '2025-04-03 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2025-04-04' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '兒童節',
+     'name' => '清明節',
      'date' => '2025-04-04 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2025-04-05' => 
+  '2025-05-30' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '清明節',
-     'date' => '2025-04-05 00:00:00.000000',
+     'name' => '端午節',
+     'date' => '2025-05-30 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

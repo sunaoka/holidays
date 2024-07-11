@@ -14,7 +14,7 @@ class Composer
      *
      * @return void
      */
-    public static function removeHolidays(Event $event, Filesystem $filesystem = null)
+    public static function removeHolidays(Event $event, $filesystem = null)
     {
         $composer = $event->getComposer();
         $extra = $composer->getPackage()->getExtra();

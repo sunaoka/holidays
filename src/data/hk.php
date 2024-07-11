@@ -288,10 +288,10 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2025-04-05' => 
+  '2025-04-04' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Tomb Sweeping Day',
-     'date' => '2025-04-05 00:00:00.000000',
+     'date' => '2025-04-04 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

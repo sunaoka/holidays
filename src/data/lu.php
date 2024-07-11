@@ -101,7 +101,7 @@ return array (
   )),
   '2024-05-09' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'L\'Ascension',
+     'name' => 'Journée de l\'Europe',
      'date' => '2024-05-09 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

@@ -178,7 +178,7 @@ return array (
   )),
   '2024-04-10' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '제21대 국회의원선거일',
+     'name' => '국회의원선거일',
      'date' => '2024-04-10 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -276,7 +276,7 @@ return array (
   )),
   '2025-01-29' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '설날',
+     'name' => '설날 연휴',
      'date' => '2025-01-29 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

@@ -528,7 +528,7 @@ return array (
   )),
   '2025-10-06' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '中秋节',
+     'name' => '黄金周 (国庆节)',
      'date' => '2025-10-06 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

@@ -17,21 +17,21 @@ return array (
   )),
   '2023-01-22' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Lunar New Year\'s Day',
+     'name' => 'Chinese New Year\'s Day',
      'date' => '2023-01-22 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2023-01-23' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Second Day of Lunar New Year',
+     'name' => 'Second Day of Chinese New Year',
      'date' => '2023-01-23 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2023-01-24' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Day off for Lunar New Year\'s Day',
+     'name' => 'Day off for Chinese New Year\'s Day',
      'date' => '2023-01-24 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -115,21 +115,21 @@ return array (
   )),
   '2024-02-10' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Lunar New Year\'s Day',
+     'name' => 'Chinese New Year\'s Day',
      'date' => '2024-02-10 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2024-02-11' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Second Day of Lunar New Year',
+     'name' => 'Second Day of Chinese New Year',
      'date' => '2024-02-11 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2024-02-12' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Day off for Lunar New Year\'s Day',
+     'name' => 'Day off for Chinese New Year\'s Day',
      'date' => '2024-02-12 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -199,8 +199,15 @@ return array (
   )),
   '2025-01-29' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Lunar New Year\'s Day',
+     'name' => 'Chinese New Year\'s Day',
      'date' => '2025-01-29 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-01-30' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Second Day of Chinese New Year',
+     'date' => '2025-01-30 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -232,10 +239,10 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2025-06-06' => 
+  '2025-06-07' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Hari Raya Haji',
-     'date' => '2025-06-06 00:00:00.000000',
+     'date' => '2025-06-07 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -246,10 +253,10 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2025-10-21' => 
+  '2025-10-20' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Diwali/Deepavali',
-     'date' => '2025-10-21 00:00:00.000000',
+     'date' => '2025-10-20 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

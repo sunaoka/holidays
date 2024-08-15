@@ -23,9 +23,7 @@ jobs:
         with:
           timeout_seconds: 30
           max_attempts: 3
-          command: |
-            composer config --global --no-plugins allow-plugins true
-            composer install --quiet --no-ansi --prefer-dist --no-progress --no-interaction
+          command: composer install --quiet --no-plugins --no-ansi --prefer-dist --no-progress --no-interaction
 
       - name: Update
         uses: nick-fields/retry@v3

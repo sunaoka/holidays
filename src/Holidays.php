@@ -42,6 +42,24 @@ class Holidays
     }
 
     /**
+     * Returns holidays on the specified date.
+     *
+     * @param T|string $date Date
+     *
+     * @return Holiday|null
+     */
+    public function getHoliday($date)
+    {
+        $date = $this->resolveHoliday($date)->format('Y-m-d');
+
+        if (isset($this->holidays[$date])) {
+            return $this->holidays[$date];
+        }
+
+        return null;
+    }
+
+    /**
      * Returns a list of holidays
      *
      * @param int $year  Year of Holidays

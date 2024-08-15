@@ -51,6 +51,22 @@ class HolidaysTest extends TestCase
 
     /**
      * @return void
+     *
+     * @throws Exception
+     */
+    public function testGetHolidaySuccess()
+    {
+        $holidays = new Holidays('US');
+
+        $actual = $holidays->getHoliday(date('Y-01-01'));
+        self::assertInstanceOf(Holiday::class, $actual);
+
+        $actual = $holidays->getHoliday(date('Y-12-31'));
+        self::assertNull($actual);
+    }
+
+    /**
+     * @return void
      */
     public function testGetHolidaysSuccess()
     {

@@ -1,11 +1,12 @@
 <?php
 
+namespace Sunaoka\Holidays\Tests;
+
 use Composer\Config;
 use Composer\IO\ConsoleIO;
 use Composer\Package\RootPackage;
 use Composer\Script\Event;
 use Sunaoka\Holidays\Task\Composer;
-use Sunaoka\Holidays\Tests\TestCase;
 use Symfony\Component\Filesystem\Filesystem;
 use Symfony\Component\Finder\Finder;
 
@@ -92,18 +93,18 @@ class ComposerTest extends TestCase
      */
     private function getMockEvent(array $all, array $keep, $vendorDir)
     {
-        $package = Mockery::mock(RootPackage::class)
+        $package = \Mockery::mock(RootPackage::class)
             ->shouldReceive('getExtra')
             ->andReturn(['sunaoka/holidays' => $keep])
             ->getMock();
 
-        $config = Mockery::mock(Config::class)
+        $config = \Mockery::mock(Config::class)
             ->shouldReceive('get')
             ->with('vendor-dir')
             ->andReturn($vendorDir)
             ->getMock();
 
-        $composer = Mockery::mock(\Composer\Composer::class)
+        $composer = \Mockery::mock(\Composer\Composer::class)
             ->shouldReceive('getPackage')
             ->andReturn($package)
             ->getMock()
@@ -111,7 +112,7 @@ class ComposerTest extends TestCase
             ->andReturn($config)
             ->getMock();
 
-        $io = Mockery::mock(ConsoleIO::class);
+        $io = \Mockery::mock(ConsoleIO::class);
 
         foreach (array_diff($all, $keep) as $country) {
             $io->shouldReceive('write')
@@ -120,7 +121,7 @@ class ComposerTest extends TestCase
                 ->getMock();
         }
 
-        return Mockery::mock(Event::class)
+        return \Mockery::mock(Event::class)
             ->shouldReceive('getComposer')
             ->andReturn($composer)
             ->getMock()

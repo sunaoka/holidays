@@ -19,12 +19,18 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Install dependencies
-        run: |
-          composer config --global --no-plugins allow-plugins true
-          composer install --quiet --no-ansi --prefer-dist --no-progress --no-interaction
+        uses: nick-fields/retry@v3
+        with:
+          timeout_seconds: 30
+          max_attempts: 3
+          command: composer install --quiet --no-plugins --no-ansi --prefer-dist --no-progress --no-interaction
 
       - name: Update
-        run: php bin/holiday-update
+        uses: nick-fields/retry@v3
+        with:
+          timeout_seconds: 30
+          max_attempts: 3
+          command: php bin/holiday-update
 
       - name: Count changes
         id: changes

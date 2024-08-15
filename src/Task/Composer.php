@@ -9,7 +9,6 @@ use Symfony\Component\Finder\Finder;
 class Composer
 {
     /**
-     * @param Event           $event
      * @param Filesystem|null $filesystem
      *
      * @return void

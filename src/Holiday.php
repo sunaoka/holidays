@@ -2,10 +2,7 @@
 
 namespace Sunaoka\Holidays;
 
-use DateTimeImmutable;
-use Exception;
-
-class Holiday extends DateTimeImmutable
+class Holiday extends \DateTimeImmutable
 {
     /**
      * Name of the holiday
@@ -18,7 +15,7 @@ class Holiday extends DateTimeImmutable
      * @param string $datetime Date of holiday
      * @param string $name     Name of the holiday
      *
-     * @throws Exception
+     * @throws \Exception
      */
     public function __construct($datetime, $name)
     {
@@ -31,7 +28,7 @@ class Holiday extends DateTimeImmutable
      *
      * @return self
      *
-     * @throws Exception
+     * @throws \Exception
      */
     #[\ReturnTypeWillChange]
     public static function __set_state($array)

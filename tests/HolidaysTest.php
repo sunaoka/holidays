@@ -3,8 +3,6 @@
 namespace Sunaoka\Holidays\Tests;
 
 use Carbon\Carbon;
-use DateTime;
-use Exception;
 use Sunaoka\Holidays\Exceptions\UnsupportedCountryException;
 use Sunaoka\Holidays\Holiday;
 use Sunaoka\Holidays\Holidays;
@@ -24,7 +22,7 @@ class HolidaysTest extends TestCase
     /**
      * @return void
      *
-     * @throws Exception
+     * @throws \Exception
      */
     public function testIsHolidaySuccess()
     {
@@ -36,10 +34,10 @@ class HolidaysTest extends TestCase
         $actual = $holidays->isHoliday(date('Y-01-01 H:i:s'));
         self::assertTrue($actual, 'date time (string)');
 
-        $actual = $holidays->isHoliday(new DateTime(date('Y-01-01')));
+        $actual = $holidays->isHoliday(new \DateTime(date('Y-01-01')));
         self::assertTrue($actual, 'date only (DateTime)');
 
-        $actual = $holidays->isHoliday(new DateTime(date('Y-01-01 H:i:s')));
+        $actual = $holidays->isHoliday(new \DateTime(date('Y-01-01 H:i:s')));
         self::assertTrue($actual, 'date time (DateTime)');
 
         $actual = $holidays->isHoliday(Carbon::parse(date('Y-01-01')));
@@ -52,7 +50,7 @@ class HolidaysTest extends TestCase
     /**
      * @return void
      *
-     * @throws Exception
+     * @throws \Exception
      */
     public function testGetHolidaySuccess()
     {
@@ -102,7 +100,7 @@ class HolidaysTest extends TestCase
     {
         $holidays = new Holidays('US');
 
-        $week = (int) date('w', (int) strtotime(date('Y-01-01')));
+        $week = (int)date('w', (int)strtotime(date('Y-01-01')));
 
         $actual = $holidays->between(date('Y-01-01'), date('Y-01-07'));
         $this->assertIsArrayCompat($actual);

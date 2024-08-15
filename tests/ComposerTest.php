@@ -86,9 +86,8 @@ class ComposerTest extends TestCase
     }
 
     /**
-     * @param array  $all
-     * @param array  $keep
      * @param string $vendorDir
+     *
      * @return Event
      */
     private function getMockEvent(array $all, array $keep, $vendorDir)

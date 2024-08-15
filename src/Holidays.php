@@ -2,14 +2,10 @@
 
 namespace Sunaoka\Holidays;
 
-use DateTime;
-use DateTimeImmutable;
-use DateTimeInterface;
-use Exception;
 use Sunaoka\Holidays\Exceptions\UnsupportedCountryException;
 
 /**
- * @template T of DateTimeImmutable|DateTime
+ * @template T of \DateTimeImmutable|\DateTime
  */
 class Holidays
 {
@@ -70,13 +66,13 @@ class Holidays
     public function getHolidays($year = null, $month = null)
     {
         if ($year !== null && $month !== null) {
-            $startDate = new DateTimeImmutable("{$year}-{$month}-01");
+            $startDate = new \DateTimeImmutable("{$year}-{$month}-01");
             $endDate = $startDate->modify('last day of');
             $holidays = $this->filter($startDate, $endDate);
 
         } elseif ($year !== null) {
-            $startDate = new DateTimeImmutable("{$year}-01-01");
-            $endDate = new DateTimeImmutable("{$year}-12-31");
+            $startDate = new \DateTimeImmutable("{$year}-01-01");
+            $endDate = new \DateTimeImmutable("{$year}-12-31");
             $holidays = $this->filter($startDate, $endDate);
 
         } else {
@@ -111,8 +107,6 @@ class Holidays
     /**
      * Add custom holiday
      *
-     * @param Holiday $holiday
-     *
      * @return void
      */
     public function addHoliday(Holiday $holiday)
@@ -137,12 +131,12 @@ class Holidays
     }
 
     /**
-     * @param T|DateTimeInterface $startDate
-     * @param T|DateTimeInterface $endDate
+     * @param T|\DateTimeInterface $startDate
+     * @param T|\DateTimeInterface $endDate
      *
      * @return array
      */
-    protected function filter(DateTimeInterface $startDate, DateTimeInterface $endDate)
+    protected function filter(\DateTimeInterface $startDate, \DateTimeInterface $endDate)
     {
         return array_filter($this->holidays, static function (Holiday $date) use ($startDate, $endDate) {
             return $startDate <= $date && $date <= $endDate;
@@ -160,7 +154,7 @@ class Holidays
     {
         if ($this->holidays === null) {
             $file = __DIR__ . "/data/{$country}.php";
-            if (!file_exists($file)) {
+            if (! file_exists($file)) {
                 throw new UnsupportedCountryException("Country '{$country}' is not a valid country.");
             }
             $this->holidays = include($file);
@@ -170,18 +164,18 @@ class Holidays
     /**
      * @param T|string $date
      *
-     * @return ($date is T ? T : DateTimeImmutable)
+     * @return ($date is T ? T : \DateTimeImmutable)
      */
     protected function resolveHoliday($date)
     {
-        if ($date instanceof DateTimeInterface) {
+        if ($date instanceof \DateTimeInterface) {
             return $date;
         }
 
         try {
-            return new DateTimeImmutable($date);
-        } catch (Exception $e) {                  // @codeCoverageIgnore
-            return new DateTimeImmutable('now');  // @codeCoverageIgnore
+            return new \DateTimeImmutable($date);
+        } catch (\Exception $e) {                  // @codeCoverageIgnore
+            return new \DateTimeImmutable('now');  // @codeCoverageIgnore
         }
     }
 }

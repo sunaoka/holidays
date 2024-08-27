@@ -15,6 +15,11 @@ class MakeTest extends TestCase
             'ical'   => __DIR__ . '/stubs/stub.ics',
             'public' => 'Public holiday',
             'filter' => static function ($date, $name) {
+                $ignore = ['Wrong Public Holidays'];
+                if (in_array($name, $ignore, true)) {
+                    return false;
+                }
+
                 return $name;
             },
         ];

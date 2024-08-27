@@ -6,7 +6,7 @@ return [
     'filter' => static function ($date, $name) {
         $ignore = ['銀行休業日', '大晦日'];
         if (in_array($name, $ignore, true)) {
-            return  false;
+            return false;
         }
 
         if ($name === '体育の日' && (int)date('Y', strtotime($date)) >= 2020) {

@@ -6,7 +6,7 @@ return [
     'filter' => static function ($date, $name) {
         $ignore = ['Vendredi saint'];
         if (in_array($name, $ignore, true)) {
-            return  false;
+            return false;
         }
 
         return $name;

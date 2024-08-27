@@ -8,6 +8,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2023-04-07' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Vendredi saint',
+     'date' => '2023-04-07 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2023-04-10' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Le lundi de Pâques',
@@ -85,6 +92,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2024-03-29' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Vendredi saint',
+     'date' => '2024-03-29 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2024-04-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Le lundi de Pâques',
@@ -152,6 +166,13 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Jour de l\'an',
      'date' => '2025-01-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-04-18' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Vendredi saint',
+     'date' => '2025-04-18 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

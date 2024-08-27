@@ -25,10 +25,22 @@ class Make
                 if ($datetime < $start || $datetime > $end) {
                     continue;
                 }
+
+                // To hide observances, go to Google Calendar Settings > Holidays in United States
+                if (strpos($m['description'][$index], 'Google') !== false) {
+                    continue;
+                }
+
                 if (strpos($m['description'][$index], $config['public']) === false) {
                     continue;
                 }
-                $holiday[$ymd] = $config['filter']($ymd, trim($m['name'][$index]));
+
+                $name = $config['filter']($ymd, trim($m['name'][$index]));
+                if ($name === false) {
+                    continue;
+                }
+
+                $holiday[$ymd] = $name;
             }
         }
         ksort($holiday);

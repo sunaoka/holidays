@@ -351,10 +351,10 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2024-09-15' => 
+  '2024-09-16' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Maulid Nabi Muhammad',
-     'date' => '2024-09-15 00:00:00.000000',
+     'date' => '2024-09-16 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -381,7 +381,7 @@ return array (
   )),
   '2025-01-28' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Isra Mikraj Nabi Muhammad',
+     'name' => 'Isra Mikraj Nabi Muhammad (belum pasti)',
      'date' => '2025-01-28 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -395,14 +395,14 @@ return array (
   )),
   '2025-04-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Idul Fitri',
+     'name' => 'Hari Idul Fitri (belum pasti)',
      'date' => '2025-04-01 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2025-04-02' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Idul Fitri',
+     'name' => 'Hari Idul Fitri (belum pasti)',
      'date' => '2025-04-02 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -423,7 +423,7 @@ return array (
   )),
   '2025-05-13' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Raya Waisak',
+     'name' => 'Hari Raya Waisak (belum pasti)',
      'date' => '2025-05-13 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -444,14 +444,14 @@ return array (
   )),
   '2025-06-07' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Idul Adha (Lebaran Haji)',
+     'name' => 'Idul Adha (Lebaran Haji) (belum pasti)',
      'date' => '2025-06-07 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2025-06-27' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Satu Muharam / Tahun Baru Hijriah',
+     'name' => 'Satu Muharam / Tahun Baru Hijriah (belum pasti)',
      'date' => '2025-06-27 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -465,7 +465,7 @@ return array (
   )),
   '2025-09-05' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Maulid Nabi Muhammad',
+     'name' => 'Maulid Nabi Muhammad (belum pasti)',
      'date' => '2025-09-05 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

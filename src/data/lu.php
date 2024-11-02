@@ -64,6 +64,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2023-12-24' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'La veille de Noël (demi-journée)',
+     'date' => '2023-12-24 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2023-12-25' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Noël',
@@ -131,6 +138,13 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'La Toussaint',
      'date' => '2024-11-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-12-24' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'La veille de Noël (demi-journée)',
+     'date' => '2024-12-24 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -208,6 +222,13 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'La Toussaint',
      'date' => '2025-11-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-12-24' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'La veille de Noël (demi-journée)',
+     'date' => '2025-12-24 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

@@ -57,10 +57,10 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2023-06-02' => 
+  '2023-06-03' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Vesak Day',
-     'date' => '2023-06-02 00:00:00.000000',
+     'date' => '2023-06-03 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -213,7 +213,7 @@ return array (
   )),
   '2025-03-31' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Raya Puasa',
+     'name' => 'Hari Raya Puasa (tentative)',
      'date' => '2025-03-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -241,7 +241,7 @@ return array (
   )),
   '2025-06-07' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Raya Haji',
+     'name' => 'Hari Raya Haji (tentative)',
      'date' => '2025-06-07 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

@@ -57,13 +57,6 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2023-08-08' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hohes Friedensfest Augsburg (Bayern)',
-     'date' => '2023-08-08 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2023-08-15' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Mariä Himmelfahrt (regionaler Feiertag)',
@@ -106,6 +99,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2023-12-24' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Heiligabend (halber Tag)',
+     'date' => '2023-12-24 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2023-12-25' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Erster Weihnachtstag',
@@ -117,6 +117,13 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Zweiter Weihnachtstag',
      'date' => '2023-12-26 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2023-12-31' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Silvester (halber Tag)',
+     'date' => '2023-12-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -141,6 +148,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2024-03-31' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Ostern (regionaler Feiertag)',
+     'date' => '2024-03-31 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2024-04-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Ostermontag',
@@ -162,13 +176,6 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2024-05-19' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Pfingsten (regionaler Feiertag)',
-     'date' => '2024-05-19 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2024-05-20' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Pfingstmontag',
@@ -180,13 +187,6 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Fronleichnam (regionaler Feiertag)',
      'date' => '2024-05-30 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-08-08' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hohes Friedensfest Augsburg (Bayern)',
-     'date' => '2024-08-08 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -232,6 +232,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2024-12-24' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Heiligabend (halber Tag)',
+     'date' => '2024-12-24 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2024-12-25' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Erster Weihnachtstag',
@@ -243,6 +250,13 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Zweiter Weihnachtstag',
      'date' => '2024-12-26 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2024-12-31' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Silvester (halber Tag)',
+     'date' => '2024-12-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -264,6 +278,13 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Karfreitag',
      'date' => '2025-04-18 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-04-20' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Ostern (regionaler Feiertag)',
+     'date' => '2025-04-20 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -309,10 +330,10 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2025-08-08' => 
+  '2025-08-15' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hohes Friedensfest Augsburg (Bayern)',
-     'date' => '2025-08-08 00:00:00.000000',
+     'name' => 'Mariä Himmelfahrt (regionaler Feiertag)',
+     'date' => '2025-08-15 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -351,6 +372,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2025-12-24' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Heiligabend (halber Tag)',
+     'date' => '2025-12-24 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2025-12-25' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Erster Weihnachtstag',
@@ -362,6 +390,13 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Zweiter Weihnachtstag',
      'date' => '2025-12-26 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-12-31' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Silvester (halber Tag)',
+     'date' => '2025-12-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

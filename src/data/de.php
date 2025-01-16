@@ -1,132 +1,6 @@
 <?php
 
 return array (
-  '2023-01-01' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Neujahrstag',
-     'date' => '2023-01-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-01-06' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Heilige Drei Könige (regionaler Feiertag)',
-     'date' => '2023-01-06 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-04-07' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Karfreitag',
-     'date' => '2023-04-07 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-04-10' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Ostermontag',
-     'date' => '2023-04-10 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-05-01' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Tag der Arbeit',
-     'date' => '2023-05-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-05-18' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Christi Himmelfahrt',
-     'date' => '2023-05-18 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-05-29' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Pfingstmontag',
-     'date' => '2023-05-29 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-06-08' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Fronleichnam (regionaler Feiertag)',
-     'date' => '2023-06-08 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-08-15' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Mariä Himmelfahrt (regionaler Feiertag)',
-     'date' => '2023-08-15 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-09-20' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Weltkindertag (Thüringen)',
-     'date' => '2023-09-20 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-10-03' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Tag der Deutschen Einheit',
-     'date' => '2023-10-03 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-10-31' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Reformationstag (regionaler Feiertag)',
-     'date' => '2023-10-31 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-11-01' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Allerheiligen (regionaler Feiertag)',
-     'date' => '2023-11-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-11-22' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Buß- und Bettag (Sachsen)',
-     'date' => '2023-11-22 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-12-24' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Heiligabend (halber Tag)',
-     'date' => '2023-12-24 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-12-25' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Erster Weihnachtstag',
-     'date' => '2023-12-25 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-12-26' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Zweiter Weihnachtstag',
-     'date' => '2023-12-26 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-12-31' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Silvester (halber Tag)',
-     'date' => '2023-12-31 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2024-01-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Neujahrstag',
@@ -145,13 +19,6 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Karfreitag',
      'date' => '2024-03-29 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-03-31' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Ostern (regionaler Feiertag)',
-     'date' => '2024-03-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -187,13 +54,6 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Fronleichnam (regionaler Feiertag)',
      'date' => '2024-05-30 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-08-15' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Mariä Himmelfahrt (regionaler Feiertag)',
-     'date' => '2024-08-15 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -281,13 +141,6 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2025-04-20' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Ostern (regionaler Feiertag)',
-     'date' => '2025-04-20 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2025-04-21' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Ostermontag',
@@ -327,13 +180,6 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Fronleichnam (regionaler Feiertag)',
      'date' => '2025-06-19 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2025-08-15' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Mariä Himmelfahrt (regionaler Feiertag)',
-     'date' => '2025-08-15 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -397,6 +243,146 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Silvester (halber Tag)',
      'date' => '2025-12-31 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-01-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Neujahrstag',
+     'date' => '2026-01-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-01-06' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Heilige Drei Könige (regionaler Feiertag)',
+     'date' => '2026-01-06 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-04-03' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Karfreitag',
+     'date' => '2026-04-03 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-04-05' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Ostern (regionaler Feiertag)',
+     'date' => '2026-04-05 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-04-06' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Ostermontag',
+     'date' => '2026-04-06 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-05-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Tag der Arbeit',
+     'date' => '2026-05-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-05-14' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Christi Himmelfahrt',
+     'date' => '2026-05-14 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-05-24' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Pfingsten (regionaler Feiertag)',
+     'date' => '2026-05-24 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-05-25' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Pfingstmontag',
+     'date' => '2026-05-25 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-06-04' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Fronleichnam (regionaler Feiertag)',
+     'date' => '2026-06-04 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-08-15' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Mariä Himmelfahrt (regionaler Feiertag)',
+     'date' => '2026-08-15 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-09-20' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Weltkindertag (Thüringen)',
+     'date' => '2026-09-20 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-10-03' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Tag der Deutschen Einheit',
+     'date' => '2026-10-03 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-10-31' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Reformationstag (regionaler Feiertag)',
+     'date' => '2026-10-31 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-11-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Allerheiligen (regionaler Feiertag)',
+     'date' => '2026-11-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-11-18' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Buß- und Bettag (Sachsen)',
+     'date' => '2026-11-18 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-12-24' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Heiligabend (halber Tag)',
+     'date' => '2026-12-24 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-12-25' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Erster Weihnachtstag',
+     'date' => '2026-12-25 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-12-26' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Zweiter Weihnachtstag',
+     'date' => '2026-12-26 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-12-31' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Silvester (halber Tag)',
+     'date' => '2026-12-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

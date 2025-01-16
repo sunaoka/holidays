@@ -1,4 +1,4 @@
-name: update
+name: Update Holiday
 
 on:
   workflow_dispatch:
@@ -13,7 +13,7 @@ jobs:
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
         with:
-          php-version: '8.3'
+          php-version: '8.4'
 
       - name: Checkout
         uses: actions/checkout@v4
@@ -21,23 +21,16 @@ jobs:
       - name: Install dependencies
         uses: nick-fields/retry@v3
         with:
-          timeout_seconds: 30
+          timeout_seconds: 60
           max_attempts: 3
           command: composer install --quiet --no-plugins --no-ansi --prefer-dist --no-progress --no-interaction
 
       - name: Update
         uses: nick-fields/retry@v3
         with:
-          timeout_seconds: 30
+          timeout_seconds: 60
           max_attempts: 3
           command: php bin/holiday-update
-
-      - name: Count changes
-        id: changes
-        run: |
-          git add -N .
-          git diff --name-only --exit-code
-        continue-on-error: true
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
@@ -47,4 +40,3 @@ jobs:
           title: Update Holiday
           body: |
             Holiday have been updated.
-        if: steps.changes.outcome == 'failure'

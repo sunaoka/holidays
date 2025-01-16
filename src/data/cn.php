@@ -1,202 +1,6 @@
 <?php
 
 return array (
-  '2023-01-01' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '元旦',
-     'date' => '2023-01-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-01-02' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '元旦周末',
-     'date' => '2023-01-02 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-01-21' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '除夕',
-     'date' => '2023-01-21 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-01-22' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '春节',
-     'date' => '2023-01-22 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-01-23' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '黄金周',
-     'date' => '2023-01-23 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-01-24' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '黄金周',
-     'date' => '2023-01-24 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-01-25' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '黄金周',
-     'date' => '2023-01-25 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-01-26' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '黄金周',
-     'date' => '2023-01-26 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-01-27' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '黄金周',
-     'date' => '2023-01-27 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-03-08' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '国际妇女节 （半天）',
-     'date' => '2023-03-08 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-04-05' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '清明节',
-     'date' => '2023-04-05 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-04-29' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '五一劳动节',
-     'date' => '2023-04-29 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-04-30' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '五一劳动节',
-     'date' => '2023-04-30 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-05-01' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '五一劳动节',
-     'date' => '2023-05-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-05-02' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '五一劳动节',
-     'date' => '2023-05-02 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-05-03' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '五一劳动节',
-     'date' => '2023-05-03 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-05-04' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '青年节 （半天）',
-     'date' => '2023-05-04 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-06-22' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '端午节',
-     'date' => '2023-06-22 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-06-23' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '端午节',
-     'date' => '2023-06-23 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-06-24' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '端午节',
-     'date' => '2023-06-24 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-09-29' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '中秋节',
-     'date' => '2023-09-29 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-09-30' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '中秋节',
-     'date' => '2023-09-30 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-10-01' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '国庆节',
-     'date' => '2023-10-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-10-02' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '黄金周 (国庆节)',
-     'date' => '2023-10-02 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-10-03' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '黄金周 (国庆节)',
-     'date' => '2023-10-03 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-10-04' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '黄金周 (国庆节)',
-     'date' => '2023-10-04 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-10-05' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '黄金周 (国庆节)',
-     'date' => '2023-10-05 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-10-06' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '黄金周 (国庆节)',
-     'date' => '2023-10-06 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2024-01-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '元旦',
@@ -600,6 +404,153 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '黄金周 (国庆节)',
      'date' => '2025-10-08 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-01-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '元旦',
+     'date' => '2026-01-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-02-16' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '除夕',
+     'date' => '2026-02-16 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-02-17' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '春节',
+     'date' => '2026-02-17 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-02-18' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '黄金周',
+     'date' => '2026-02-18 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-02-19' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '黄金周',
+     'date' => '2026-02-19 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-02-20' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '黄金周',
+     'date' => '2026-02-20 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-02-21' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '黄金周',
+     'date' => '2026-02-21 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-02-22' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '黄金周',
+     'date' => '2026-02-22 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-03-08' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '国际妇女节 （半天）',
+     'date' => '2026-03-08 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-04-05' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '清明节',
+     'date' => '2026-04-05 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-04-06' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '清明节',
+     'date' => '2026-04-06 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-05-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '五一劳动节',
+     'date' => '2026-05-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-05-04' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '青年节 （半天）',
+     'date' => '2026-05-04 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-06-19' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '端午节',
+     'date' => '2026-06-19 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-09-25' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '中秋节',
+     'date' => '2026-09-25 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-10-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '国庆节',
+     'date' => '2026-10-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-10-02' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '黄金周 (国庆节)',
+     'date' => '2026-10-02 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-10-03' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '黄金周 (国庆节)',
+     'date' => '2026-10-03 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-10-04' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '黄金周 (国庆节)',
+     'date' => '2026-10-04 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-10-05' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '黄金周 (国庆节)',
+     'date' => '2026-10-05 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-10-06' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '黄金周 (国庆节)',
+     'date' => '2026-10-06 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

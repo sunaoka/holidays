@@ -1,111 +1,6 @@
 <?php
 
 return array (
-  '2023-01-01' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'New Year’s Day',
-     'date' => '2023-01-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-01-02' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'New Year’s Day observed',
-     'date' => '2023-01-02 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-01-22' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Chinese New Year\'s Day',
-     'date' => '2023-01-22 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-01-23' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Second Day of Chinese New Year',
-     'date' => '2023-01-23 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-01-24' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Day off for Chinese New Year\'s Day',
-     'date' => '2023-01-24 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-04-07' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Good Friday',
-     'date' => '2023-04-07 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-04-22' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Raya Puasa',
-     'date' => '2023-04-22 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-05-01' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Labour Day',
-     'date' => '2023-05-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-06-03' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Vesak Day',
-     'date' => '2023-06-03 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-06-29' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Raya Haji',
-     'date' => '2023-06-29 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-08-09' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'National Day',
-     'date' => '2023-08-09 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-09-01' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Election Day',
-     'date' => '2023-09-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-11-12' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Diwali/Deepavali',
-     'date' => '2023-11-12 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-11-13' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Day off for Diwali/Deepavali',
-     'date' => '2023-11-13 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2023-12-25' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Christmas Day',
-     'date' => '2023-12-25 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2024-01-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'New Year’s Day',
@@ -264,6 +159,90 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Christmas Day',
      'date' => '2025-12-25 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-01-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'New Year’s Day',
+     'date' => '2026-01-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-02-17' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Chinese New Year\'s Day',
+     'date' => '2026-02-17 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-02-18' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Second Day of Chinese New Year',
+     'date' => '2026-02-18 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-03-20' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Raya Puasa (tentative)',
+     'date' => '2026-03-20 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-04-03' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Good Friday',
+     'date' => '2026-04-03 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-05-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Labour Day',
+     'date' => '2026-05-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-05-27' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Raya Haji (tentative)',
+     'date' => '2026-05-27 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-08-09' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'National Day',
+     'date' => '2026-08-09 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-08-10' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'National Day observed',
+     'date' => '2026-08-10 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-11-08' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Diwali/Deepavali',
+     'date' => '2026-11-08 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-11-09' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Day off for Diwali/Deepavali',
+     'date' => '2026-11-09 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-12-25' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Christmas Day',
+     'date' => '2026-12-25 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

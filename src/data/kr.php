@@ -141,6 +141,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2025-01-27' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '설날 연휴',
+     'date' => '2025-01-27 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2025-01-28' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '설날 연휴',
@@ -194,6 +201,13 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '쉬는 날 어린이날',
      'date' => '2025-05-06 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-06-03' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '대통령 선거',
+     'date' => '2025-06-03 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

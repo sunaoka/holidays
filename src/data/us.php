@@ -92,6 +92,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2025-01-09' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'National Day of Mourning for Jimmy Carter',
+     'date' => '2025-01-09 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2025-01-20' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Martin Luther King Jr. Day',

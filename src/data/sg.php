@@ -108,7 +108,7 @@ return array (
   )),
   '2025-03-31' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Raya Puasa (tentative)',
+     'name' => 'Hari Raya Puasa',
      'date' => '2025-03-31 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -124,6 +124,13 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Labour Day',
      'date' => '2025-05-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-05-03' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Election Day',
+     'date' => '2025-05-03 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

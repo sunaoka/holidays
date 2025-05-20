@@ -24,7 +24,7 @@ class Holiday extends \DateTimeImmutable
     }
 
     /**
-     * @param array $array
+     * @param array{date: string, name: string} $array
      *
      * @return self
      *

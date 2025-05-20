@@ -5,12 +5,12 @@ namespace Sunaoka\Holidays;
 use Sunaoka\Holidays\Exceptions\UnsupportedCountryException;
 
 /**
- * @template T of \DateTimeImmutable|\DateTime
+ * @template T of \DateTimeImmutable|\DateTime|\Carbon\CarbonInterface
  */
 class Holidays
 {
     /**
-     * @var array
+     * @var array<string, Holiday>
      */
     protected $holidays;
 

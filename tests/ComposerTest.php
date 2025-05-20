@@ -121,6 +121,7 @@ class ComposerTest extends TestCase
                 ->getMock();
         }
 
+        /** @var Event */
         return \Mockery::mock(Event::class)
             ->shouldReceive('getComposer')
             ->andReturn($composer)

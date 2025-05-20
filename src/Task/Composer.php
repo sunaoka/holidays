@@ -25,6 +25,7 @@ class Composer
         }
 
         $keep = array_map(static function ($country) {
+            /** @var string $country */
             return strtolower($country);
         }, $keep);
 

@@ -435,11 +435,4 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2026-12-31' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Silvester (halber Tag)',
-     'date' => '2026-12-31 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
 );

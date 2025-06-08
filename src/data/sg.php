@@ -143,7 +143,7 @@ return array (
   )),
   '2025-06-07' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Raya Haji (tentative)',
+     'name' => 'Hari Raya Haji',
      'date' => '2025-06-07 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

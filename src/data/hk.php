@@ -337,9 +337,16 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2026-10-19' => 
+  '2026-10-18' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Chung Yeung Festival',
+     'date' => '2026-10-18 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-10-19' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Day off for Chung Yeung Festival',
      'date' => '2026-10-19 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

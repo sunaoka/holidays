@@ -339,7 +339,7 @@ return array (
   )),
   '2025-06-06' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Idul Adha (Lebaran Haji) (belum pasti)',
+     'name' => 'Idul Adha (Lebaran Haji)',
      'date' => '2025-06-06 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

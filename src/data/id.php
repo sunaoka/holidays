@@ -353,7 +353,7 @@ return array (
   )),
   '2025-06-27' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Satu Muharam / Tahun Baru Hijriah (belum pasti)',
+     'name' => 'Satu Muharam / Tahun Baru Hijriah',
      'date' => '2025-06-27 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

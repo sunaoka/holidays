@@ -276,29 +276,15 @@ return array (
   )),
   '2026-04-04' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Holy Saturday',
-     'date' => '2026-04-04 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2026-04-05' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Tomb Sweeping Day',
-     'date' => '2026-04-05 00:00:00.000000',
+     'date' => '2026-04-04 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2026-04-06' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Day off for Tomb Sweeping Day',
+     'name' => 'Easter Monday',
      'date' => '2026-04-06 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2026-04-07' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Day off for Easter Monday',
-     'date' => '2026-04-07 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -351,16 +337,9 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2026-10-18' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Chung Yeung Festival',
-     'date' => '2026-10-18 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2026-10-19' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Day off for Chung Yeung Festival',
+     'name' => 'Chung Yeung Festival',
      'date' => '2026-10-19 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

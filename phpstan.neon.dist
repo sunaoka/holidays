@@ -1,4 +1,5 @@
 includes:
+    - /composer/vendor/phpstan/phpstan/conf/bleedingEdge.neon
     - /composer/vendor/phpstan/phpstan-mockery/extension.neon
 
 parameters:
@@ -7,9 +8,8 @@ parameters:
         - src
         - tests
 
-    level: 9
+    level: max
 
     ignoreErrors:
-        - identifier: missingType.iterableValue
         - identifier: function.alreadyNarrowedType
           path: **tests/Assert.php

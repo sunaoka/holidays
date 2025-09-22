@@ -4,6 +4,9 @@ namespace Sunaoka\Holidays\Tests;
 
 use Sunaoka\Holidays\Task\Make;
 
+/**
+ * @phpstan-import-type Config from Make
+ */
 class MakeTest extends TestCase
 {
     /**
@@ -11,6 +14,7 @@ class MakeTest extends TestCase
      */
     public function testMakeSuccess()
     {
+        /** @var Config $config */
         $config = [
             'ical'   => __DIR__ . '/stubs/stub.ics',
             'public' => 'Public holiday',

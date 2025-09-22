@@ -18,14 +18,13 @@ class Composer
         $composer = $event->getComposer();
         $extra = $composer->getPackage()->getExtra();
 
-        /** @var array $keep */
+        /** @var string[] $keep */
         $keep = isset($extra['sunaoka/holidays']) ? $extra['sunaoka/holidays'] : [];
         if (count($keep) === 0) {
             return;
         }
 
         $keep = array_map(static function ($country) {
-            /** @var string $country */
             return strtolower($country);
         }, $keep);
 
@@ -39,8 +38,7 @@ class Composer
             ->depth('== 0')
             ->in([$configDir, $dataDir]);
 
-        $filesystem = $filesystem ?: new Filesystem();
-
+        $paths = [];
         $remove = [];
         foreach ($finder as $file) {
             $country = $file->getBasename('.php');
@@ -48,9 +46,12 @@ class Composer
                 continue;
             }
 
+            $paths[] = (string)$file->getRealPath();
             $remove[] = $country;
-            $filesystem->remove($file->getRealPath());
         }
+
+        $filesystem = $filesystem ?: new Filesystem();
+        $filesystem->remove($paths);
 
         sort($remove);
         $remove = array_unique($remove);

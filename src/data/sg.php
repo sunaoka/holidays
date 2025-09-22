@@ -190,10 +190,10 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2026-03-20' => 
+  '2026-03-21' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Hari Raya Puasa (tentative)',
-     'date' => '2026-03-20 00:00:00.000000',
+     'date' => '2026-03-21 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -215,6 +215,20 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Hari Raya Haji (tentative)',
      'date' => '2026-05-27 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-05-31' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Vesak Day',
+     'date' => '2026-05-31 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-06-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Day off for Vesak Day',
+     'date' => '2026-06-01 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

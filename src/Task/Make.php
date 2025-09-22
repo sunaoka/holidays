@@ -2,12 +2,19 @@
 
 namespace Sunaoka\Holidays\Task;
 
+/**
+ * @phpstan-type Config array{
+ *     ical: string,
+ *     public: string,
+ *     filter: callable(string, string): (string|false)
+ * }
+ */
 class Make
 {
     /**
-     * @param array $config
+     * @param Config $config
      *
-     * @return array
+     * @return array<string, string>
      */
     public static function holiday($config)
     {
@@ -18,7 +25,7 @@ class Make
 
         $holiday = [];
         $pattern = '/DTSTART;VALUE=DATE:(?<date>\d{8})[\s\S]*DESCRIPTION:(?<description>.+?)[\s\S]*SUMMARY:(?<name>.+?)/Um';
-        if (preg_match_all($pattern, $ical, $m, PREG_PATTERN_ORDER)) {
+        if (preg_match_all($pattern, $ical, $m, PREG_PATTERN_ORDER) !== false) {
             foreach ($m['date'] as $index => $date) {
                 $datetime = \DateTimeImmutable::createFromFormat('Ymd', $date);
                 if ($datetime === false) {

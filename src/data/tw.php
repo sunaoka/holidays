@@ -218,6 +218,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2025-09-29' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '教師節 補假',
+     'date' => '2025-09-29 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2025-10-06' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '中秋節',
@@ -232,10 +239,38 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2025-10-24' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '台灣光復節 補假',
+     'date' => '2025-10-24 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-12-25' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '行憲紀念日',
+     'date' => '2025-12-25 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2026-01-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '中華民國開國紀念日/元旦',
      'date' => '2026-01-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-02-14' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '農曆春節假日',
+     'date' => '2026-02-14 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-02-15' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '農曆春節假日',
+     'date' => '2026-02-15 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -281,9 +316,16 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2026-02-22' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '農曆春節假日',
+     'date' => '2026-02-22 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2026-02-27' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '和平紀念日 補假',
+     'name' => '和平紀念日 厂礼拜',
      'date' => '2026-02-27 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -297,7 +339,7 @@ return array (
   )),
   '2026-04-03' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '兒童節 補假',
+     'name' => '兒童節 厂礼拜',
      'date' => '2026-04-03 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -344,9 +386,16 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2026-09-28' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '教師節',
+     'date' => '2026-09-28 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2026-10-09' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '中華民國國慶日 補假',
+     'name' => '中華民國國慶日 厂礼拜',
      'date' => '2026-10-09 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -355,6 +404,20 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '中華民國國慶日',
      'date' => '2026-10-10 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-10-26' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '台灣光復節 補假',
+     'date' => '2026-10-26 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-12-25' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '行憲紀念日',
+     'date' => '2026-12-25 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

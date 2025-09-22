@@ -353,7 +353,7 @@ return array (
   )),
   '2025-06-27' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Satu Muharam / Tahun Baru Hijriah (belum pasti)',
+     'name' => 'Satu Muharam / Tahun Baru Hijriah',
      'date' => '2025-06-27 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -365,9 +365,16 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2025-08-18' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Proklamasi Kemerdekaan R.I. observed',
+     'date' => '2025-08-18 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2025-09-05' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Maulid Nabi Muhammad (belum pasti)',
+     'name' => 'Maulid Nabi Muhammad',
      'date' => '2025-09-05 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

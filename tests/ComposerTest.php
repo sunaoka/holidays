@@ -87,7 +87,9 @@ class ComposerTest extends TestCase
     }
 
     /**
-     * @param string $vendorDir
+     * @param string[] $all
+     * @param string[] $keep
+     * @param string   $vendorDir
      *
      * @return Event
      */

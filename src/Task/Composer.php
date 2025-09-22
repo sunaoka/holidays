@@ -18,14 +18,13 @@ class Composer
         $composer = $event->getComposer();
         $extra = $composer->getPackage()->getExtra();
 
-        /** @var array $keep */
+        /** @var string[] $keep */
         $keep = isset($extra['sunaoka/holidays']) ? $extra['sunaoka/holidays'] : [];
         if (count($keep) === 0) {
             return;
         }
 
         $keep = array_map(static function ($country) {
-            /** @var string $country */
             return strtolower($country);
         }, $keep);
 

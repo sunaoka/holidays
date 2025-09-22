@@ -61,7 +61,7 @@ class Holidays
      * @param int $year  Year of Holidays
      * @param int $month Month of Holidays
      *
-     * @return array
+     * @return Holiday[]
      */
     public function getHolidays($year = null, $month = null)
     {
@@ -88,7 +88,7 @@ class Holidays
      * @param T|string $start The start date
      * @param T|string $end   The end date
      *
-     * @return array
+     * @return Holiday[]
      */
     public function between($start, $end)
     {
@@ -134,7 +134,7 @@ class Holidays
      * @param T|\DateTimeInterface $startDate
      * @param T|\DateTimeInterface $endDate
      *
-     * @return array
+     * @return array<string, Holiday>
      */
     protected function filter(\DateTimeInterface $startDate, \DateTimeInterface $endDate)
     {
@@ -157,7 +157,7 @@ class Holidays
             if (! file_exists($file)) {
                 throw new UnsupportedCountryException("Country '{$country}' is not a valid country.");
             }
-            $this->holidays = include($file);
+            $this->holidays = include($file);  // @phpstan-ignore assign.propertyType
         }
     }
 

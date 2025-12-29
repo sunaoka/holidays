@@ -225,6 +225,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2026-10-04' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'San Francesco d\'Assisi',
+     'date' => '2026-10-04 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2026-11-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Tutti i Santi',

@@ -393,4 +393,179 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2026-01-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Tahun Baru',
+     'date' => '2026-01-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-01-16' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Isra Mikraj Nabi Muhammad (belum pasti)',
+     'date' => '2026-01-16 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-02-16' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Cuti Bersama Tahun Baru Imlek',
+     'date' => '2026-02-16 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-02-17' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Tahun Baru Imlek',
+     'date' => '2026-02-17 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-03-18' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Cuti Bersama Hari Suci Nyepi (Tahun Baru Saka)',
+     'date' => '2026-03-18 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-03-19' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Suci Nyepi (Tahun Baru Saka)',
+     'date' => '2026-03-19 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-03-20' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Cuti Bersama Idul Fitri',
+     'date' => '2026-03-20 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-03-21' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Idul Fitri (belum pasti)',
+     'date' => '2026-03-21 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-03-22' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Idul Fitri (belum pasti)',
+     'date' => '2026-03-22 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-03-23' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Cuti Bersama Idul Fitri',
+     'date' => '2026-03-23 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-03-24' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Cuti Bersama Idul Fitri',
+     'date' => '2026-03-24 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-04-03' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Wafat Isa Almasih',
+     'date' => '2026-04-03 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-04-05' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Paskah',
+     'date' => '2026-04-05 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-05-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Buruh Internasional / Pekerja',
+     'date' => '2026-05-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-05-14' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Kenaikan Isa Al Masih',
+     'date' => '2026-05-14 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-05-15' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Cuti Bersama Kenaikan Isa Al Masih',
+     'date' => '2026-05-15 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-05-27' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Idul Adha (Lebaran Haji) (belum pasti)',
+     'date' => '2026-05-27 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-05-28' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Idul Adha (Lebaran Haji)',
+     'date' => '2026-05-28 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-05-31' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Raya Waisak (belum pasti)',
+     'date' => '2026-05-31 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-06-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Lahir Pancasila',
+     'date' => '2026-06-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-06-16' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Satu Muharam / Tahun Baru Hijriah (belum pasti)',
+     'date' => '2026-06-16 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-08-17' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Proklamasi Kemerdekaan R.I.',
+     'date' => '2026-08-17 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-08-25' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Maulid Nabi Muhammad (belum pasti)',
+     'date' => '2026-08-25 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-12-24' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Cuti Bersama Natal (Malam Natal)',
+     'date' => '2026-12-24 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-12-25' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Raya Natal',
+     'date' => '2026-12-25 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
 );

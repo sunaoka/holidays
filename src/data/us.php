@@ -1,90 +1,6 @@
 <?php
 
 return array (
-  '2024-01-01' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'New Year\'s Day',
-     'date' => '2024-01-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-01-15' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Martin Luther King Jr. Day',
-     'date' => '2024-01-15 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-02-19' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Presidents\' Day',
-     'date' => '2024-02-19 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-05-27' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Memorial Day',
-     'date' => '2024-05-27 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-06-19' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Juneteenth',
-     'date' => '2024-06-19 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-07-04' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Independence Day',
-     'date' => '2024-07-04 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-09-02' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Labor Day',
-     'date' => '2024-09-02 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-10-14' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Columbus Day',
-     'date' => '2024-10-14 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-11-11' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Veterans Day',
-     'date' => '2024-11-11 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-11-28' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Thanksgiving Day',
-     'date' => '2024-11-28 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-12-24' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Christmas Eve',
-     'date' => '2024-12-24 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-12-25' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Christmas Day',
-     'date' => '2024-12-25 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2025-01-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'New Year\'s Day',
@@ -250,6 +166,104 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Christmas Day',
      'date' => '2026-12-25 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-01-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'New Year\'s Day',
+     'date' => '2027-01-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-01-18' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Martin Luther King Jr. Day',
+     'date' => '2027-01-18 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-02-15' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Presidents\' Day',
+     'date' => '2027-02-15 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-05-31' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Memorial Day',
+     'date' => '2027-05-31 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-06-18' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Juneteenth (substitute)',
+     'date' => '2027-06-18 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-06-19' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Juneteenth',
+     'date' => '2027-06-19 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-07-04' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Independence Day',
+     'date' => '2027-07-04 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-07-05' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Independence Day (substitute)',
+     'date' => '2027-07-05 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-09-06' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Labor Day',
+     'date' => '2027-09-06 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-10-11' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Columbus Day',
+     'date' => '2027-10-11 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-11-11' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Veterans Day',
+     'date' => '2027-11-11 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-11-25' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Thanksgiving Day',
+     'date' => '2027-11-25 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-12-24' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Christmas Day (substitute)',
+     'date' => '2027-12-24 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-12-25' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Christmas Day',
+     'date' => '2027-12-25 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

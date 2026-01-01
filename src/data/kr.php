@@ -1,132 +1,6 @@
 <?php
 
 return array (
-  '2024-01-01' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '새해첫날',
-     'date' => '2024-01-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-02-09' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '설날 연휴',
-     'date' => '2024-02-09 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-02-10' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '설날',
-     'date' => '2024-02-10 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-02-11' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '설날 연휴',
-     'date' => '2024-02-11 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-02-12' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '설날 연휴',
-     'date' => '2024-02-12 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-03-01' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '삼일절',
-     'date' => '2024-03-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-04-10' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '국회의원선거일',
-     'date' => '2024-04-10 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-05-05' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '어린이날',
-     'date' => '2024-05-05 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-05-06' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '쉬는 날 어린이날',
-     'date' => '2024-05-06 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-05-15' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '부처님오신날',
-     'date' => '2024-05-15 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-06-06' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '현충일',
-     'date' => '2024-06-06 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-08-15' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '광복절',
-     'date' => '2024-08-15 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-09-17' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '추석',
-     'date' => '2024-09-17 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-09-18' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '추석 연휴',
-     'date' => '2024-09-18 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-10-01' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '국군의날',
-     'date' => '2024-10-01 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-10-03' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '개천절',
-     'date' => '2024-10-03 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-10-09' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '한글날',
-     'date' => '2024-10-09 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
-  '2024-12-25' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '크리스마스',
-     'date' => '2024-12-25 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2025-01-01' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '새해첫날',
@@ -397,6 +271,111 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '크리스마스',
      'date' => '2026-12-25 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-01-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '새해첫날',
+     'date' => '2027-01-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-02-06' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '설날',
+     'date' => '2027-02-06 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-02-08' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '설날 연휴',
+     'date' => '2027-02-08 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-03-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '삼일절',
+     'date' => '2027-03-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-05-05' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '어린이날',
+     'date' => '2027-05-05 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-05-13' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '부처님오신날',
+     'date' => '2027-05-13 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-06-06' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '현충일',
+     'date' => '2027-06-06 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-08-15' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '광복절',
+     'date' => '2027-08-15 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-09-14' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '추석 연휴',
+     'date' => '2027-09-14 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-09-15' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '추석',
+     'date' => '2027-09-15 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-09-16' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '추석 연휴',
+     'date' => '2027-09-16 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-10-03' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '개천절',
+     'date' => '2027-10-03 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-10-09' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '한글날',
+     'date' => '2027-10-09 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-10-11' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '쉬는 날 한글날',
+     'date' => '2027-10-11 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-12-25' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '크리스마스',
+     'date' => '2027-12-25 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

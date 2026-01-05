@@ -10,13 +10,47 @@ use Sunaoka\Holidays\Task\Make;
 class MakeTest extends TestCase
 {
     /**
+     * @return string
+     */
+    private function getStub()
+    {
+        $stub = (string)file_get_contents(__DIR__ . '/stubs/stub.ics');
+
+        return str_replace([
+            '2022',
+            '2023',
+            '2024',
+        ], [
+            $this->year(-2),
+            $this->year(-1),
+            $this->year(),
+        ], $stub);
+    }
+
+    /**
+     * @param int $offset
+     *
+     * @return string
+     */
+    private function year($offset = 0)
+    {
+        /** @var ?int $year */
+        static $year;
+        if ($year === null) {
+            $year = date('Y');
+        }
+
+        return (string)($year + $offset);
+    }
+
+    /**
      * @return void
      */
     public function testMakeSuccess()
     {
         /** @var Config $config */
         $config = [
-            'ical'   => __DIR__ . '/stubs/stub.ics',
+            'ical'   => 'data://text/plain;base64,' . base64_encode($this->getStub()),
             'public' => 'Public holiday',
             'filter' => static function ($date, $name) {
                 $ignore = ['Wrong Public Holidays'];
@@ -31,8 +65,8 @@ class MakeTest extends TestCase
         $holiday = Make::holiday($config);
 
         self::assertSame([
-            '2024-01-01' => 'New Year\'s Day',
-            '2024-01-15' => 'Martin Luther King Jr. Day',
+            "{$this->year()}-01-01" => 'New Year\'s Day',
+            "{$this->year()}-01-15" => 'Martin Luther King Jr. Day',
         ], $holiday);
     }
 }

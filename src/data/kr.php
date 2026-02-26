@@ -211,6 +211,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2026-07-17' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '제헌절',
+     'date' => '2026-07-17 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2026-08-15' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '광복절',
@@ -320,6 +327,13 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '현충일',
      'date' => '2027-06-06 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-07-17' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '제헌절',
+     'date' => '2027-07-17 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

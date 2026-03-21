@@ -108,7 +108,7 @@ return array (
   )),
   '2026-03-21' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Hari Raya Puasa (tentative)',
+     'name' => 'Hari Raya Puasa',
      'date' => '2026-03-21 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

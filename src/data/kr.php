@@ -176,6 +176,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2026-05-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '노동절',
+     'date' => '2026-05-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2026-05-05' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '어린이날',
@@ -208,6 +215,13 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '현충일',
      'date' => '2026-06-06 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2026-07-17' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '제헌절',
+     'date' => '2026-07-17 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -302,6 +316,20 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2027-05-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '노동절',
+     'date' => '2027-05-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-05-03' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '쉬는 날 노동절',
+     'date' => '2027-05-03 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2027-05-05' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '어린이날',
@@ -320,6 +348,13 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '현충일',
      'date' => '2027-06-06 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-07-17' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '제헌절',
+     'date' => '2027-07-17 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

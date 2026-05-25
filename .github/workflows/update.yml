@@ -19,14 +19,14 @@ jobs:
         uses: actions/checkout@v6
 
       - name: Install dependencies
-        uses: nick-fields/retry@v3
+        uses: nick-fields/retry@v4
         with:
           timeout_seconds: 60
           max_attempts: 3
           command: composer install --quiet --no-plugins --no-ansi --prefer-dist --no-progress --no-interaction
 
       - name: Update
-        uses: nick-fields/retry@v3
+        uses: nick-fields/retry@v4
         with:
           timeout_seconds: 60
           max_attempts: 3

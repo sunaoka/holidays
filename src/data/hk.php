@@ -274,16 +274,23 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2027-02-08' => 
+  '2027-02-07' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Second Day of Lunar New Year',
+     'date' => '2027-02-07 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-02-08' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Third Day of Lunar New Year',
      'date' => '2027-02-08 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2027-02-09' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Third Day of Lunar New Year',
+     'name' => 'Fourth Day of Lunar New Year',
      'date' => '2027-02-09 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

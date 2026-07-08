@@ -309,6 +309,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2027-02-04' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '農曆春節假日',
+     'date' => '2027-02-04 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2027-02-05' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '農曆除夕',
@@ -339,14 +346,14 @@ return array (
   )),
   '2027-02-09' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '農曆春節假日',
+     'name' => '農曆春節 厂礼拜',
      'date' => '2027-02-09 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
   '2027-02-10' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '農曆春節假日',
+     'name' => '農曆春節假日 厂礼拜',
      'date' => '2027-02-10 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
@@ -374,8 +381,15 @@ return array (
   )),
   '2027-04-05' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => '兒童節 補假',
+     'name' => '清明節',
      'date' => '2027-04-05 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-04-06' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '兒童節 厂礼拜',
+     'date' => '2027-04-06 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -418,6 +432,27 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '中華民國國慶日 補假',
      'date' => '2027-10-11 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-10-25' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '台灣光復節',
+     'date' => '2027-10-25 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-12-24' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '行憲紀念日 厂礼拜',
+     'date' => '2027-12-24 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-12-25' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '行憲紀念日',
+     'date' => '2027-12-25 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

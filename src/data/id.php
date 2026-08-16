@@ -353,7 +353,7 @@ return array (
   )),
   '2026-08-25' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Maulid Nabi Muhammad (belum pasti)',
+     'name' => 'Maulid Nabi Muhammad',
      'date' => '2026-08-25 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',

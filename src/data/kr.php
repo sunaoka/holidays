@@ -295,10 +295,10 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2027-02-06' => 
+  '2027-02-07' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '설날',
-     'date' => '2027-02-06 00:00:00.000000',
+     'date' => '2027-02-07 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -306,6 +306,13 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '설날 연휴',
      'date' => '2027-02-08 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-02-09' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '쉬는 날 설날',
+     'date' => '2027-02-09 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -358,10 +365,24 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2027-07-19' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '쉬는 날 제헌절',
+     'date' => '2027-07-19 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2027-08-15' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '광복절',
      'date' => '2027-08-15 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-08-16' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '쉬는 날 광복절',
+     'date' => '2027-08-16 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
@@ -393,6 +414,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2027-10-04' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '쉬는 날 개천절',
+     'date' => '2027-10-04 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2027-10-09' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '한글날',
@@ -411,6 +439,13 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '크리스마스',
      'date' => '2027-12-25 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-12-27' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '쉬는 날 크리스마스',
+     'date' => '2027-12-27 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),

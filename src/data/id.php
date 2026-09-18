@@ -372,4 +372,109 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2027-01-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Tahun Baru',
+     'date' => '2027-01-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-01-06' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Isra Mikraj Nabi Muhammad (belum pasti)',
+     'date' => '2027-01-06 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-02-06' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Tahun Baru Imlek',
+     'date' => '2027-02-06 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-03-11' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Idul Fitri (belum pasti)',
+     'date' => '2027-03-11 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-03-12' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Idul Fitri (belum pasti)',
+     'date' => '2027-03-12 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-03-26' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Wafat Isa Almasih',
+     'date' => '2027-03-26 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-05-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Buruh Internasional / Pekerja',
+     'date' => '2027-05-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-05-06' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Kenaikan Isa Al Masih',
+     'date' => '2027-05-06 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-05-18' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Idul Adha (Lebaran Haji) (belum pasti)',
+     'date' => '2027-05-18 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-06-01' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Lahir Pancasila',
+     'date' => '2027-06-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-06-07' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Satu Muharam / Tahun Baru Hijriah (belum pasti)',
+     'date' => '2027-06-07 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-08-15' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Maulid Nabi Muhammad (belum pasti)',
+     'date' => '2027-08-15 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-08-17' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Proklamasi Kemerdekaan R.I.',
+     'date' => '2027-08-17 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-12-25' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Hari Raya Natal',
+     'date' => '2027-12-25 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2027-12-26' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'Isra Mikraj Nabi Muhammad (belum pasti)',
+     'date' => '2027-12-26 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
 );
